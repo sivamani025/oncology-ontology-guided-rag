@@ -1,0 +1,388 @@
+{
+    "configuration": {
+        "documents": 11,
+        "chunks": 517,
+        "chunk_size": 500,
+        "overlap": 100,
+        "embedding_dimension": 384,
+        "queries": 15,
+        "top_k": 3
+    },
+    "comparison": {
+        "NumPy": {
+            "average_latency_ms": 0.23497333168052137,
+            "results": {
+                "What are the common symptoms and signs of cancer?": {
+                    "latency_ms": 0.4606000002240762,
+                    "chunks": [
+                        "DOC_005_CHUNK_0015",
+                        "DOC_005_CHUNK_0052",
+                        "DOC_003_CHUNK_0002"
+                    ]
+                },
+                "What are the side effects of chemotherapy?": {
+                    "latency_ms": 0.23230000806506723,
+                    "chunks": [
+                        "DOC_004_CHUNK_0016",
+                        "DOC_005_CHUNK_0065",
+                        "DOC_004_CHUNK_0015"
+                    ]
+                },
+                "How is stomach cancer diagnosed?": {
+                    "latency_ms": 0.2212999970652163,
+                    "chunks": [
+                        "DOC_010_CHUNK_0014",
+                        "DOC_010_CHUNK_0010",
+                        "DOC_010_CHUNK_0000"
+                    ]
+                },
+                "What treatments are available for stomach cancer?": {
+                    "latency_ms": 0.22989998979028314,
+                    "chunks": [
+                        "DOC_010_CHUNK_0025",
+                        "DOC_010_CHUNK_0023",
+                        "DOC_010_CHUNK_0016"
+                    ]
+                },
+                "What is radiation therapy?": {
+                    "latency_ms": 0.22319999698083848,
+                    "chunks": [
+                        "DOC_002_CHUNK_0010",
+                        "DOC_009_CHUNK_0011",
+                        "DOC_009_CHUNK_0004"
+                    ]
+                },
+                "What are the side effects of radiation therapy?": {
+                    "latency_ms": 0.21640000340994447,
+                    "chunks": [
+                        "DOC_009_CHUNK_0021",
+                        "DOC_009_CHUNK_0019",
+                        "DOC_009_CHUNK_0024"
+                    ]
+                },
+                "What is melanoma?": {
+                    "latency_ms": 0.2133999951183796,
+                    "chunks": [
+                        "DOC_007_CHUNK_0094",
+                        "DOC_007_CHUNK_0006",
+                        "DOC_007_CHUNK_0101"
+                    ]
+                },
+                "How is melanoma diagnosed?": {
+                    "latency_ms": 0.21410000044852495,
+                    "chunks": [
+                        "DOC_007_CHUNK_0030",
+                        "DOC_007_CHUNK_0101",
+                        "DOC_007_CHUNK_0054"
+                    ]
+                },
+                "What is osteosarcoma?": {
+                    "latency_ms": 0.2128999913111329,
+                    "chunks": [
+                        "DOC_008_CHUNK_0000",
+                        "DOC_005_CHUNK_0078",
+                        "DOC_008_CHUNK_0003"
+                    ]
+                },
+                "How is osteosarcoma treated?": {
+                    "latency_ms": 0.21389999892562628,
+                    "chunks": [
+                        "DOC_008_CHUNK_0000",
+                        "DOC_005_CHUNK_0078",
+                        "DOC_008_CHUNK_0003"
+                    ]
+                },
+                "What are the risk factors for cervical cancer?": {
+                    "latency_ms": 0.2133999951183796,
+                    "chunks": [
+                        "DOC_003_CHUNK_0003",
+                        "DOC_003_CHUNK_0001",
+                        "DOC_003_CHUNK_0000"
+                    ]
+                },
+                "What is the role of biopsy in cancer diagnosis?": {
+                    "latency_ms": 0.21630000264849514,
+                    "chunks": [
+                        "DOC_005_CHUNK_0049",
+                        "DOC_005_CHUNK_0050",
+                        "DOC_005_CHUNK_0057"
+                    ]
+                },
+                "What is cancer staging?": {
+                    "latency_ms": 0.2167999919038266,
+                    "chunks": [
+                        "DOC_005_CHUNK_0051",
+                        "DOC_007_CHUNK_0032",
+                        "DOC_007_CHUNK_0033"
+                    ]
+                },
+                "What is chemotherapy?": {
+                    "latency_ms": 0.22729999909643084,
+                    "chunks": [
+                        "DOC_005_CHUNK_0064",
+                        "DOC_004_CHUNK_0004",
+                        "DOC_010_CHUNK_0032"
+                    ]
+                },
+                "What are supportive care measures for cancer patients?": {
+                    "latency_ms": 0.2128000051015988,
+                    "chunks": [
+                        "DOC_007_CHUNK_0086",
+                        "DOC_007_CHUNK_0038",
+                        "DOC_001_CHUNK_0052"
+                    ]
+                }
+            }
+        },
+        "FAISS": {
+            "average_latency_ms": 0.13279999839141965,
+            "results": {
+                "What are the common symptoms and signs of cancer?": {
+                    "latency_ms": 0.16560000949539244,
+                    "chunks": [
+                        "DOC_005_CHUNK_0015",
+                        "DOC_005_CHUNK_0052",
+                        "DOC_003_CHUNK_0002"
+                    ]
+                },
+                "What are the side effects of chemotherapy?": {
+                    "latency_ms": 0.13470000703819096,
+                    "chunks": [
+                        "DOC_004_CHUNK_0016",
+                        "DOC_005_CHUNK_0065",
+                        "DOC_004_CHUNK_0015"
+                    ]
+                },
+                "How is stomach cancer diagnosed?": {
+                    "latency_ms": 0.13099999341648072,
+                    "chunks": [
+                        "DOC_010_CHUNK_0014",
+                        "DOC_010_CHUNK_0010",
+                        "DOC_010_CHUNK_0000"
+                    ]
+                },
+                "What treatments are available for stomach cancer?": {
+                    "latency_ms": 0.13010000111535192,
+                    "chunks": [
+                        "DOC_010_CHUNK_0025",
+                        "DOC_010_CHUNK_0023",
+                        "DOC_010_CHUNK_0016"
+                    ]
+                },
+                "What is radiation therapy?": {
+                    "latency_ms": 0.13029998808633536,
+                    "chunks": [
+                        "DOC_002_CHUNK_0010",
+                        "DOC_009_CHUNK_0011",
+                        "DOC_009_CHUNK_0004"
+                    ]
+                },
+                "What are the side effects of radiation therapy?": {
+                    "latency_ms": 0.13040000339969993,
+                    "chunks": [
+                        "DOC_009_CHUNK_0021",
+                        "DOC_009_CHUNK_0019",
+                        "DOC_009_CHUNK_0024"
+                    ]
+                },
+                "What is melanoma?": {
+                    "latency_ms": 0.1294999965466559,
+                    "chunks": [
+                        "DOC_007_CHUNK_0094",
+                        "DOC_007_CHUNK_0006",
+                        "DOC_007_CHUNK_0101"
+                    ]
+                },
+                "How is melanoma diagnosed?": {
+                    "latency_ms": 0.1370999962091446,
+                    "chunks": [
+                        "DOC_007_CHUNK_0030",
+                        "DOC_007_CHUNK_0101",
+                        "DOC_007_CHUNK_0054"
+                    ]
+                },
+                "What is osteosarcoma?": {
+                    "latency_ms": 0.1297999988310039,
+                    "chunks": [
+                        "DOC_008_CHUNK_0000",
+                        "DOC_005_CHUNK_0078",
+                        "DOC_008_CHUNK_0003"
+                    ]
+                },
+                "How is osteosarcoma treated?": {
+                    "latency_ms": 0.12859998969361186,
+                    "chunks": [
+                        "DOC_008_CHUNK_0000",
+                        "DOC_005_CHUNK_0078",
+                        "DOC_008_CHUNK_0003"
+                    ]
+                },
+                "What are the risk factors for cervical cancer?": {
+                    "latency_ms": 0.12850000348407775,
+                    "chunks": [
+                        "DOC_003_CHUNK_0003",
+                        "DOC_003_CHUNK_0001",
+                        "DOC_003_CHUNK_0000"
+                    ]
+                },
+                "What is the role of biopsy in cancer diagnosis?": {
+                    "latency_ms": 0.1289999927394092,
+                    "chunks": [
+                        "DOC_005_CHUNK_0049",
+                        "DOC_005_CHUNK_0050",
+                        "DOC_005_CHUNK_0057"
+                    ]
+                },
+                "What is cancer staging?": {
+                    "latency_ms": 0.12940001033712178,
+                    "chunks": [
+                        "DOC_005_CHUNK_0051",
+                        "DOC_007_CHUNK_0032",
+                        "DOC_007_CHUNK_0033"
+                    ]
+                },
+                "What is chemotherapy?": {
+                    "latency_ms": 0.12849998893216252,
+                    "chunks": [
+                        "DOC_005_CHUNK_0064",
+                        "DOC_004_CHUNK_0004",
+                        "DOC_010_CHUNK_0032"
+                    ]
+                },
+                "What are supportive care measures for cancer patients?": {
+                    "latency_ms": 0.1294999965466559,
+                    "chunks": [
+                        "DOC_007_CHUNK_0086",
+                        "DOC_007_CHUNK_0038",
+                        "DOC_001_CHUNK_0052"
+                    ]
+                }
+            }
+        },
+        "ChromaDB": {
+            "average_latency_ms": 1.015593334644412,
+            "results": {
+                "What are the common symptoms and signs of cancer?": {
+                    "latency_ms": 8.532799998647533,
+                    "chunks": [
+                        "DOC_005_CHUNK_0015",
+                        "DOC_005_CHUNK_0052",
+                        "DOC_003_CHUNK_0002"
+                    ]
+                },
+                "What are the side effects of chemotherapy?": {
+                    "latency_ms": 0.5350999999791384,
+                    "chunks": [
+                        "DOC_004_CHUNK_0016",
+                        "DOC_005_CHUNK_0065",
+                        "DOC_004_CHUNK_0015"
+                    ]
+                },
+                "How is stomach cancer diagnosed?": {
+                    "latency_ms": 0.49479999870527536,
+                    "chunks": [
+                        "DOC_010_CHUNK_0014",
+                        "DOC_010_CHUNK_0010",
+                        "DOC_010_CHUNK_0000"
+                    ]
+                },
+                "What treatments are available for stomach cancer?": {
+                    "latency_ms": 0.4903000080958009,
+                    "chunks": [
+                        "DOC_010_CHUNK_0025",
+                        "DOC_010_CHUNK_0023",
+                        "DOC_010_CHUNK_0016"
+                    ]
+                },
+                "What is radiation therapy?": {
+                    "latency_ms": 0.5173999961698428,
+                    "chunks": [
+                        "DOC_002_CHUNK_0010",
+                        "DOC_009_CHUNK_0011",
+                        "DOC_009_CHUNK_0004"
+                    ]
+                },
+                "What are the side effects of radiation therapy?": {
+                    "latency_ms": 0.5184000037843361,
+                    "chunks": [
+                        "DOC_009_CHUNK_0021",
+                        "DOC_009_CHUNK_0019",
+                        "DOC_009_CHUNK_0024"
+                    ]
+                },
+                "What is melanoma?": {
+                    "latency_ms": 0.4744000034406781,
+                    "chunks": [
+                        "DOC_007_CHUNK_0094",
+                        "DOC_007_CHUNK_0006",
+                        "DOC_007_CHUNK_0101"
+                    ]
+                },
+                "How is melanoma diagnosed?": {
+                    "latency_ms": 0.45279999903868884,
+                    "chunks": [
+                        "DOC_007_CHUNK_0030",
+                        "DOC_007_CHUNK_0101",
+                        "DOC_007_CHUNK_0054"
+                    ]
+                },
+                "What is osteosarcoma?": {
+                    "latency_ms": 0.4496000037761405,
+                    "chunks": [
+                        "DOC_008_CHUNK_0000",
+                        "DOC_005_CHUNK_0078",
+                        "DOC_008_CHUNK_0003"
+                    ]
+                },
+                "How is osteosarcoma treated?": {
+                    "latency_ms": 0.41930000588763505,
+                    "chunks": [
+                        "DOC_008_CHUNK_0000",
+                        "DOC_005_CHUNK_0078",
+                        "DOC_008_CHUNK_0003"
+                    ]
+                },
+                "What are the risk factors for cervical cancer?": {
+                    "latency_ms": 0.5060999974375591,
+                    "chunks": [
+                        "DOC_003_CHUNK_0003",
+                        "DOC_003_CHUNK_0001",
+                        "DOC_003_CHUNK_0000"
+                    ]
+                },
+                "What is the role of biopsy in cancer diagnosis?": {
+                    "latency_ms": 0.4979999939678237,
+                    "chunks": [
+                        "DOC_005_CHUNK_0049",
+                        "DOC_005_CHUNK_0050",
+                        "DOC_005_CHUNK_0057"
+                    ]
+                },
+                "What is cancer staging?": {
+                    "latency_ms": 0.4600000102072954,
+                    "chunks": [
+                        "DOC_005_CHUNK_0051",
+                        "DOC_007_CHUNK_0032",
+                        "DOC_007_CHUNK_0033"
+                    ]
+                },
+                "What is chemotherapy?": {
+                    "latency_ms": 0.44380000326782465,
+                    "chunks": [
+                        "DOC_005_CHUNK_0064",
+                        "DOC_004_CHUNK_0004",
+                        "DOC_010_CHUNK_0032"
+                    ]
+                },
+                "What are supportive care measures for cancer patients?": {
+                    "latency_ms": 0.4410999972606078,
+                    "chunks": [
+                        "DOC_007_CHUNK_0086",
+                        "DOC_007_CHUNK_0038",
+                        "DOC_001_CHUNK_0052"
+                    ]
+                }
+            }
+        }
+    }
+}

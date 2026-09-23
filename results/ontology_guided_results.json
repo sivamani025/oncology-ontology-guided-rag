@@ -1,0 +1,692 @@
+{
+    "What are the common symptoms and signs of cancer?": {
+        "concepts": [
+            "RiskFactor",
+            "Cancer",
+            "CervicalCancer",
+            "Melanoma",
+            "StomachCancer",
+            "CancerStage",
+            "Diagnosis",
+            "Treatment",
+            "Osteosarcoma",
+            "Biomarker",
+            "Symptom"
+        ],
+        "results": [
+            {
+                "rank": 1,
+                "chunk_id": "DOC_005_CHUNK_0015",
+                "document_title": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+                "page": null,
+                "semantic_score": 1.0,
+                "lexical_score": 0.9999999953971542,
+                "ontology_score": 0.4,
+                "final_score": 0.8799999986191462,
+                "text": "14 1.3 TYPES OF CANCER Cancer is a group of diseases characterized by uncontrolled growth and spread of abnormal cells in the body. There are many types of cancer, each of which can affect different organs and tissues in the body. Some of the most common types of cancer include: Breast cancer: Breast cancer is the most common cancer among women worldwide. It develops in the breast tissue and can be detected through mammog rams, self-exams, and other screening methods. Risk factors for breast cancer include genetics, age, and lifestyle factors such as alcohol consumption and obesity. Lung cancer: Lung cancer is the leading cause of cancer-related deaths in bot h men and women worldwide. It is often caused by long-term exposure to tobacco smoke, and other risk factors include exposure to radon and air pollution. Symptoms of lung cancer can include coughing, chest pain, and shortn ess of breath. Prostate cancer: Prostate cancer is the most common cancer among men in the United States. It develops in the prostate gland, which is a small gland in the male reproductive system. Risk factors for prostate cancer include age, family history, and certain genetic mutations. Symptoms of prostate cancer may include difficulty urinating, blood in the urine, and erectile dysfunction. Colorectal cancer: Colorectal cancer develops in the colon or rectum, which are parts of th e digestive system. It is the third most common cancer in both men and women in the United States. Risk factors for colorectal cancer include age, family history, and lifestyle factors such as a diet high in red meat a nd low in fiber. Symptoms of colorectal cancer may include changes in bowe l habits, abdominal pain, and rectal bleeding."
+            },
+            {
+                "rank": 2,
+                "chunk_id": "DOC_005_CHUNK_0052",
+                "document_title": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+                "page": null,
+                "semantic_score": 0.9154527187347412,
+                "lexical_score": 0.7954375974908976,
+                "ontology_score": 0.8,
+                "final_score": 0.8563576386146399,
+                "text": "51 Types of Stage I Cancer Stage I cancer can occur in various parts of the body, including th e breast, lung, colon, skin, prostate, and others. Each type of cancer has its own set of symptoms, diagnostic tests, and treatment options. Breast Cancer: In stage I breast cancer, the cancer is typically small and has not spread to nearby lymph nodes. Symptoms may include a lump in the breast, changes in the shape or size of the breast, or changes in the skin over the breast. Lung Cancer: Stage I lung cancer refers to cancer that is confined to the lung and has not spread to other parts of the body. Symptoms may in clude coughing, shortness of breath, chest pain, or coughing up blood. Colon Cancer: In stage I colon cancer, the cancer has not yet spread beyond the inner lining of the colon. Symptoms may include changes in bowel habits, blood in the stool, abdominal pain, or unexplained weight loss. Skin Cancer: Stage I skin cancer refers to cancer that is confined to the top layer of the skin and has not spread to nearby lymph nodes or other parts of the body. Symptoms may include a change in the appearance of a mole or other skin lesion, or a new growth on the skin. Prostate Cancer: Stage I prostate cancer refers to cancer that is small and has not spread outside of the prostate gland. Symptoms may include difficulty urinating, blood in the urine or semen, or erectile dysfunction. Diagnosis of Stage I Cancer Diagnosis of stage I cancer typically involves a combination of imaging tests, laboratory tests, and biopsies. The goal is to determine the t ype and stage of cancer and to develop a treatment plan tailored to the patient's individual needs. Imaging Tests: Imaging tests may include X-rays, CT scans, MRI scans, PET scans, or ultrasound tests. These tests can help identify the location and size of the cancer and whether it has spread to nearby tissues or lymph nodes. Laboratory Tests: Laboratory tests may include blood tests, urine tests, or other tests to detect specific substances in the body that may be associated with cancer. Biopsy: A biopsy involves taking a small sample of tissue from the area suspected of being cancerous and examining it under a microscope. This can h elp confirm the diagnosis of cancer and provide information on the type and stage of the cancer."
+            },
+            {
+                "rank": 3,
+                "chunk_id": "DOC_003_CHUNK_0002",
+                "document_title": "cervical-cancer-mater-misericordiae-university-hospital-3675",
+                "page": null,
+                "semantic_score": 0.8831056952476501,
+                "lexical_score": 0.9211803921831867,
+                "ontology_score": 0.4,
+                "final_score": 0.7979069652787811,
+                "text": "CERVICAL CANCER Symptoms Cervical cancer often has no symptoms in its early stages. The most common symptom as it develops is abnormal bleeding. Abnormal bleeding can include: • irregular vaginal bleeding • bleeding between periods • vaginal spotting or unusual discharge • bleeding when you have gone through the menopause (post-menopausal bleeding) • bleeding after sex Other symptoms can include: Unexplained pelvic or back pain are also possible symptoms, although there can be many other causes for these."
+            }
+        ]
+    },
+    "What are the side effects of chemotherapy?": {
+        "concepts": [
+            "SideEffect",
+            "Treatment",
+            "Cancer",
+            "Chemotherapy"
+        ],
+        "results": [
+            {
+                "rank": 1,
+                "chunk_id": "DOC_005_CHUNK_0065",
+                "document_title": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+                "page": null,
+                "semantic_score": 0.9272611141204834,
+                "lexical_score": 0.9728580168242011,
+                "ontology_score": 1.0,
+                "final_score": 0.9554879621075021,
+                "text": "64 Nausea and vomiting: Chemotherapy drugs can affect the digestive system, leading to nausea and vomiting. Anti-nausea medication can be give n to help manage these side effects. Hair loss: Chemotherapy drugs can cause hair loss, although the severity and extent of hair loss depend on the type of drug and the dose. Fatigue: Chemotherapy can cause fatigue, weakness, and a general feeling of malaise. Increased risk of infection: Chemotherapy can weaken the immune system, increasing the risk of infection. Anemia: Chemotherapy can lower the number of red blood cells, leading to anemia and fatigue. Increased risk of bleeding: Chemotherapy can lower the number of platelets, which are responsible for blood clotting, leading to an increased risk of bleeding and bruising. Neuropathy: Some chemotherapy drugs can damage nerves, leading to numbness, tingling, or weakness in the hands and feet. Despite these side effects, chemotherapy remains an important and effective treatment for many types of cancer. Several new drugs and dru g combinations are currently being developed and tested in clinical trials, with the goal of improving treatment outcomes and reducing side effects."
+            },
+            {
+                "rank": 2,
+                "chunk_id": "DOC_004_CHUNK_0004",
+                "document_title": "chemotherapy-and-you-national-cancer-institute-3664",
+                "page": null,
+                "semantic_score": 0.7075271010398865,
+                "lexical_score": 0.9999999972706858,
+                "ontology_score": 1.0,
+                "final_score": 0.8537635497011489,
+                "text": "www.cancer.gov 1 Questions and answers about chemotherapy What is chemotherapy? Chemotherapy (also called chemo) is a type of cancer treatment that uses drugs to destroy cancer cells. How does chemotherapy work? Chemotherapy works by stopping or slowing the growth of cancer cells, which grow and divide quickly. But it can also harm healthy cells that divide quickly, such as those that line your mouth and intestines or cause your hair to grow. Damage to healthy cells may cause side eﬀects. O/f_ten, side eﬀects get better or go away a/f_ter chemotherapy is over. What does chemotherapy do? Depending on your type of cancer and how advanced it is, chemotherapy can cure or control cancer or ease symptoms caused by cancer. Chemotherapy cures cancer by destroying cancer cells to the point that your doctor can no longer detect them in your body and they will not grow back. Chemotherapy controls cancer by stopping it from spreading, slowing its growth, or destroying cancer cells that have spread to other parts of your body. Chemotherapy can ease symptoms caused by cancer (called palliative care) by shrinking tumors that are causing pain or pressure. Is chemotherapy used with other cancer treatments? Sometimes, chemotherapy is used as the only cancer treatment. But more o/f_ten, you will get chemotherapy along with surgery, radiation therapy, targeted therapy, or immunotherapy. Î Chemotherapy may make a tumor smaller before surgery or radiation therapy. /T_his is called neoadjuvant chemotherapy. Î Chemotherapy may destroy cancer cells that remain a/f_ter surgery or radiation therapy. /T_his is called adjuvant chemotherapy. Î Chemotherapy helps radiation therapy and immunotherapy work better. Î Chemotherapy can destroy cancer cells that have come back (recurrent cancer) or spread to other parts of your body (metastatic cancer)."
+            },
+            {
+                "rank": 3,
+                "chunk_id": "DOC_005_CHUNK_0064",
+                "document_title": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+                "page": null,
+                "semantic_score": 0.7213360667228699,
+                "lexical_score": 0.9428281669222673,
+                "ontology_score": 1.0,
+                "final_score": 0.843516483438115,
+                "text": "63 5.3 CHEMOTHERAPY Chemotherapy is a type of cancer treatment that uses powerful drugs to kill cancer cells or slow down their growth. It is one of the most common a nd widely used treatments for cancer. The drugs used in chemotherapy work by targeting and destroying rapidly dividing cancer cells. However, they can also affect healthy cells that divide rapidly, such as those in the bone marrow, gastrointestinal tract, and hair follicles, leading to side effects. Chemotherapy can be administered in several ways, including intravenously (through a vein), orally (by mouth), topically (applied to the skin), or intramuscularly (injected into a muscle). The choice of chemotherapy drugs and the method of administration depend on several factors, including the type of cancer, stage of cancer, overall health of the patient, and o ther treatments received. Chemotherapy is used for several purposes in the treatment of cancer, including: Curative treatment: Chemotherapy can be used as the primary treatment for some types of cancer, such as leukemia, lymphoma, and testicular cancer. In these cases, chemotherapy can often cure the cancer, especially when combined with other treatments such as radiation therapy or surgery. Adjuvant therapy: Adjuvant chemotherapy is given after surgery to kill any remaining cancer cells and reduce the risk of cancer recurrence. It is commonly used for breast cancer, colorectal cancer, and lung cancer. Neoadjuvant therapy: Neoadjuvant chemotherapy is given before surgery to shrink the tumor and make it easier to remove. This approach i s commonly used for breast cancer, lung cancer, and other types of cancer. Palliative treatment: Chemotherapy can be used to relieve symptoms of advanced or metastatic cancer, such as pain, bleeding, or brea thing difficulties. While chemotherapy can be effective in killing cancer cells, it can also cause several side effects, including:"
+            }
+        ]
+    },
+    "How is stomach cancer diagnosed?": {
+        "concepts": [
+            "RiskFactor",
+            "Cancer",
+            "CervicalCancer",
+            "Melanoma",
+            "StomachCancer",
+            "CancerStage",
+            "Diagnosis",
+            "Treatment",
+            "Osteosarcoma",
+            "Biomarker",
+            "Symptom"
+        ],
+        "results": [
+            {
+                "rank": 1,
+                "chunk_id": "DOC_010_CHUNK_0010",
+                "document_title": "stomach-cancer-european-society-for-medical-oncology",
+                "page": null,
+                "semantic_score": 0.9944457411766052,
+                "lexical_score": 0.7823156665417148,
+                "ontology_score": 0.6,
+                "final_score": 0.8519175705508171,
+                "text": "Stomach cancer: a guide for patients - Information based on ESMO Clinical Practice Guidelines - v.2012.1 Page 9 This document is provided by the Anticancer Fund with the permission of ESMO. The information in this document does not replace a medical consultation. It is for personal use only and cannot be modified, reproduced or disseminated in any way without written permission from ESMO and the Anticancer Fund. HOW IS STOMACH CANCER DIAGNOSED? Stomach cancer can be suspected in different circumstances. Unfortunately, these signals ar e often vague and quite common, and they can also point to many other medical conditions. In the early phase, most stomach cancers do not even cause any symptoms. Therefore a stomach tumor is often not suspected. In case of a combination of the following c omplaints, and especially if persistent, further examinations should be considered:  abdominal discomfort or pain  a sense of fullness, even after eating a small meal  heartburn, indigestion, acidity and burping  nausea and/or vomiting, especially including blood.  swelling or fluid build-up in the abdomen  poor appetite  unexplained extreme weight loss Unnoticeable blood loss from the stomach may also cause anemia *, leading to tiredness and breathlessness in the long term. In Japan and Korea, where there is a high number of new cases of stomach cancer, a screening is proposed to every individual at the age of 50 and with a follow -up according to the result of the screening exam. In Europe, no such screening is proposed because the number of new cases of stomach cancer is not considered to be sufficient for screening to be efficient1. The diagnosis of stomach cancer is based on the following examinations. 1. Clinical examination. The doctor will examine the abdomen to identify any abnormal swelling or pain. He will also check for any abnormal swelling above the left collar bone, which may be caused by a spread of the cancer to the lymph nodes* that are situated there. 2. Endoscopic examination. During an endoscopic examination of the upper digestive tract or the gastroscopy, the doctor passes a thin, flexible, light-emitting tube called an endoscope down the patient’s throat and into the stomach. This allows the doctor to see the lining of the esophagus, stomach, and the first part of the small intestine. If abnormal areas are noted, biopsies* (tissue samples) can be taken using instruments passed through the endoscope. These tissue samples are examined by a specialist in the laboratory (see histopathological* examination). 1 Screening consists of performing an exam in order to detect cancer at an early stage, before any sign of the cancer appears. A screening is proposed if a safe a nd acceptable exam can be performed and if this exam is able to detect cancer in the majority of cases. It should also be proved that treating screened cancers is more effective than treating cancers diagnosed because signs of cancer were present."
+            },
+            {
+                "rank": 2,
+                "chunk_id": "DOC_010_CHUNK_0007",
+                "document_title": "stomach-cancer-european-society-for-medical-oncology",
+                "page": null,
+                "semantic_score": 0.8755180239677429,
+                "lexical_score": 0.9999999976676485,
+                "ontology_score": 0.2,
+                "final_score": 0.777759011284166,
+                "text": "Stomach cancer: a guide for patients - Information based on ESMO Clinical Practice Guidelines - v.2012.1 Page 7 This document is provided by the Anticancer Fund with the permission of ESMO. The information in this document does not replace a medical consultation. It is for personal use only and cannot be modified, reproduced or disseminated in any way without written permission from ESMO and the Anticancer Fund.  Factors that cannot be modified: o Some inherited conditions may increase the risk of developing stomach cancer  A rare hereditary mutation* in the gene that codes for a protein* called Ecadherin, leads to a very high risk of developing stomach cancer. The type of stomach cancer due to this mutation * is called hereditary diffuse stomach cancer and has a bad prognosis*. Individuals with this mutation * might therefore consider close surveillance, or discuss a preventative removal of the stomach.  Some hereditary mutations which are predisposed to cancer in other parts of the body seem to s lightly increase the risk of developing stomach cancer. Examples of these are mutations* in the BRCA1 and BRCA2 -gene, which are known to increase the risk of developing breast and ovarian cancer, and two conditions increasing the risk for colorectal cancer, called Hereditary non polyposis colorectal cancer or Lynch Syndrome and Familial Adenomatous Polyposis.  A history of stomach cancer in first-degree relatives (parents, siblings or children) increases one’s own risk of developing the disease.  For unknown reasons, people with type A blood are at a greater risk of developing stomach cancer. o Gender: Stomach cancer is mor e frequent in men than in women. Reasons for this difference are unclear, but the female sex hormone estrogen may have a protective effect.  Medical conditions: o People who have been treated for another type of stomach cancer, known as mucosa-associated lymphoid tissue (MALT) lymphoma, are at an increased risk of getting adenocarcinoma of the stomach. This is probably because MALT lymphoma of the stomach is caused by infection with H pylori bacteria. o Gastro-esophageal reflux, a common condition where stomach acid comes up from the stomach into the esophagus increases the risk of cancer at the junction of the stomach and the gullet (the oesophago-gastric junction or OGJ). o Previous stomach surgery: when a part of the stomach has been removed, e.g. because of a stomach ulcer, there is a higher chance of developing cancer in the remaining part. This may be because less stomach acid is produced. The reduced acid level may allow more bacteria to grow and the bacteria may help to produce more chemicals that may increase stomach cancer risk. o Gastric polyps are benign growths on the inner lining of the stomach. One type of polyp, called adenoma, can sometimes develop into cancer. Adenomas can be detected and removed during a gastroscopy, an examination of the stomach in which the doctor passes a thin, flexible, light-emitting tube, called an endoscope, downthe patient’s throat and into the stomach. o"
+            },
+            {
+                "rank": 3,
+                "chunk_id": "DOC_010_CHUNK_0003",
+                "document_title": "stomach-cancer-european-society-for-medical-oncology",
+                "page": null,
+                "semantic_score": 0.9266210198402405,
+                "lexical_score": 0.8708505957534578,
+                "ontology_score": 0.2,
+                "final_score": 0.7645656886461576,
+                "text": "Stomach cancer: a guide for patients - Information based on ESMO Clinical Practice Guidelines - v.2012.1 Page 3 This document is provided by the Anticancer Fund with the permission of ESMO. The information in this document does not replace a medical consultation. It is for personal use only and cannot be modified, reproduced or disseminated in any way without written permission from ESMO and the Anticancer Fund. DEFINITION OF STOMACH CANCER This definition is adapted from and is used with the permission of the National Cancer Institute (NCI) of the United States of America. Stomach cancer is a cancer that forms in tissues lining the stomach. Most stomach cancers start from cells in the inner layer of the stomach (the mucosa) which normally make and release mucus * and other fluids. These can cers are called adenocarcinomas and represent about 90% of stomach cancers. Anatomy of the digestive system and layers of the stomach wall. The mucosa* or inner layer of the stomach is made up of the epithelium* and the lamina propria *. Going deeper in the stomach wall we find the submucosa *, followed by the muscle layers, subserosa * (not shown in the picture) and the serosa*. The serosa* is the membrane* covering the outside of the stomach."
+            }
+        ]
+    },
+    "What treatments are available for stomach cancer?": {
+        "concepts": [
+            "RiskFactor",
+            "Cancer",
+            "CervicalCancer",
+            "SideEffect",
+            "Melanoma",
+            "StomachCancer",
+            "CancerStage",
+            "Diagnosis",
+            "Treatment",
+            "Osteosarcoma",
+            "Biomarker",
+            "Symptom"
+        ],
+        "results": [
+            {
+                "rank": 1,
+                "chunk_id": "DOC_010_CHUNK_0025",
+                "document_title": "stomach-cancer-european-society-for-medical-oncology",
+                "page": null,
+                "semantic_score": 1.0,
+                "lexical_score": 0.7717811464573506,
+                "ontology_score": 0.6,
+                "final_score": 0.8515343439372052,
+                "text": "Stomach cancer: a guide for patients - Information based on ESMO Clinical Practice Guidelines - v.2012.1 Page 19 This document is provided by the Anticancer Fund with the permission of ESMO. The information in this document does not replace a medical consultation. It is for personal use only and cannot be modified, reproduced or disseminated in any way without written permission from ESMO and the Anticancer Fund. Another option is to participate in a clinical trial* investigating new treatments. Alternatively, in patients who relapsed after therapy but relapsed more than 3 months after the first chemotherapy*, consideration should be given to trying the same chemotherapy * regimen again, since it did have an effect on the tumor and it may be active again. Targeted therapies Targeted therapies are drugs that act on specific targets in cancer cells to inhibit cancer cell growth. They can be added to a chemotherapy * regimen to increase its effect iveness. The only targ eted therapy available for stomach cancer is trastuzumab*. It is a drug that targets a protein* called HER2, which is excessively present on the surface of cancer cells in certain types of stomach cancers. It is usually administered together with cisplatin and a fluoropyrimidine* in patients with HER2 -positive stomach cancer. Therefore, for patients with evidence of HER2 overexpression measured by FISH * and/or immunohistochemistry*, consideration should be given to treatment with this combination. Other targeted agents include cetuximab*, panitumumab* and bevacizumab*, but their use remains experimental for stomach cancers at the moment and should not be administered outside of clinical trials*. Surgery and radiotherapy Surgery and radiotherapy can reduce certain symptoms in patients with stage IV stomach cancer. Radiotherapy Patients with locally advanced or recurrent disease who se cancer makes them bleed from the digestive tract or for whom it becomes difficult to eat because of an obstruction due to the tumor, radiotherapy can bring relief. Radiotherapy can also relieve a possible pain in the stomach, or in the bones if the cancer has spread to them. Radiotherapy aims to kill cancer cells using radiation directed towards the area of the cancer. Surgery Resection of the tumor by surgery can sometimes relieve the patient of possible complications of stomach cancer growth including: obstruction in the stomach because of the tumor; bleeding in the stomach; and perforation of the stomach wall. However, a multidisciplinary team should discuss the feasibility and the added value of such a surgical intervention, according to the general condition of each patient. Side effects of chemo- and targeted therapies All the drugs that are given to fight the cancer have unwanted effects. The most frequent side-effects of chemo- and targeted therapies are usually reversible after treatment. Some strategies are available to prevent or relieve a certain range of these side -effects. This should be discussed upfront with doctors."
+            },
+            {
+                "rank": 2,
+                "chunk_id": "DOC_010_CHUNK_0007",
+                "document_title": "stomach-cancer-european-society-for-medical-oncology",
+                "page": null,
+                "semantic_score": 0.8472256660461426,
+                "lexical_score": 0.999999997594559,
+                "ontology_score": 0.2,
+                "final_score": 0.7636128323014391,
+                "text": "Stomach cancer: a guide for patients - Information based on ESMO Clinical Practice Guidelines - v.2012.1 Page 7 This document is provided by the Anticancer Fund with the permission of ESMO. The information in this document does not replace a medical consultation. It is for personal use only and cannot be modified, reproduced or disseminated in any way without written permission from ESMO and the Anticancer Fund.  Factors that cannot be modified: o Some inherited conditions may increase the risk of developing stomach cancer  A rare hereditary mutation* in the gene that codes for a protein* called Ecadherin, leads to a very high risk of developing stomach cancer. The type of stomach cancer due to this mutation * is called hereditary diffuse stomach cancer and has a bad prognosis*. Individuals with this mutation * might therefore consider close surveillance, or discuss a preventative removal of the stomach.  Some hereditary mutations which are predisposed to cancer in other parts of the body seem to s lightly increase the risk of developing stomach cancer. Examples of these are mutations* in the BRCA1 and BRCA2 -gene, which are known to increase the risk of developing breast and ovarian cancer, and two conditions increasing the risk for colorectal cancer, called Hereditary non polyposis colorectal cancer or Lynch Syndrome and Familial Adenomatous Polyposis.  A history of stomach cancer in first-degree relatives (parents, siblings or children) increases one’s own risk of developing the disease.  For unknown reasons, people with type A blood are at a greater risk of developing stomach cancer. o Gender: Stomach cancer is mor e frequent in men than in women. Reasons for this difference are unclear, but the female sex hormone estrogen may have a protective effect.  Medical conditions: o People who have been treated for another type of stomach cancer, known as mucosa-associated lymphoid tissue (MALT) lymphoma, are at an increased risk of getting adenocarcinoma of the stomach. This is probably because MALT lymphoma of the stomach is caused by infection with H pylori bacteria. o Gastro-esophageal reflux, a common condition where stomach acid comes up from the stomach into the esophagus increases the risk of cancer at the junction of the stomach and the gullet (the oesophago-gastric junction or OGJ). o Previous stomach surgery: when a part of the stomach has been removed, e.g. because of a stomach ulcer, there is a higher chance of developing cancer in the remaining part. This may be because less stomach acid is produced. The reduced acid level may allow more bacteria to grow and the bacteria may help to produce more chemicals that may increase stomach cancer risk. o Gastric polyps are benign growths on the inner lining of the stomach. One type of polyp, called adenoma, can sometimes develop into cancer. Adenomas can be detected and removed during a gastroscopy, an examination of the stomach in which the doctor passes a thin, flexible, light-emitting tube, called an endoscope, downthe patient’s throat and into the stomach. o"
+            },
+            {
+                "rank": 3,
+                "chunk_id": "DOC_010_CHUNK_0016",
+                "document_title": "stomach-cancer-european-society-for-medical-oncology",
+                "page": null,
+                "semantic_score": 0.9680771827697754,
+                "lexical_score": 0.5208454114091937,
+                "ontology_score": 0.6,
+                "final_score": 0.7602922148076457,
+                "text": "Stomach cancer: a guide for patients - Information based on ESMO Clinical Practice Guidelines - v.2012.1 Page 14 This document is provided by the Anticancer Fund with the permission of ESMO. The information in this document does not replace a medical consultation. It is for personal use only and cannot be modified, reproduced or disseminated in any way without written permission from ESMO and the Anticancer Fund. WHAT ARE THE TREATMENT OPTIONS? Planning of the treatment involves an inter-disciplinary team of medical professionals. This usually implies a meeting of different specialists, called multidisciplinary opinion or tumor board review. In this meeting, the planning of treatment will be discussed according to the relevant information mentioned previously. A multidisciplinary opinion will preferably include that of a medical oncologist (who provides cancer treatment with drugs), a surgical oncologist (who provides cancer treatment with surgery), a radiation oncologist (who provide s cancer treatment with radiation), a gastroenterologist (specialist in diseases of stomach and intestines), a radiologist* and a pathologist*. They will, as a first step, judge the cancer as operable (or resectable), meaning that it is possible to remove the complete tumor in an operation, or as not operable (or unresectable), meaning that this is not possible. In a tumor judged operable, the tumor may also have invaded structures surrounding the stomach but these can be removed without complication. A tumor can be unresectable because it has grown too close to nearby organs or lymph nodes *, because it has grown too close to major blood vessels, or because it has spread to distant parts of the body. There is no distinct dividing line between resectable an d unresectable in terms of the TNM stage of the cancer, but earlier stage cancers are more likely to be resectable. Surgery is the only treatment that is performed with the purpose of curing the cancer. If this is not possible, the other treatments are do ne with the purpose of relieving symptoms and prolonging the patient’s lifespan. The treatments listed below have their benefits, their risks and their contraindications. It is recommended to ask oncologists about the expected benefits and risks of every treatment in order to be informed of all the possible consequences. For some treatments, several possibilities are available and the choice should be discussed based on weighing up their respective benefits and risks. Treatment plan for localized disease (Stage 0 to III and resectable) Endoscopic Treatment Endoscopic Mucosal Resection or EMR can be done for cancers limited to the inner layer of the stomach or mucosa*, usually for small (<2cm) cancers without ulceration *. The doctor will pass a small tube down the throat and into the stomach (as is done during a gastroscopy) and remove the tumor. R ecently, larger tumors could be removed by Endoscopic Submucosal Dissection (ESD). Endoscopic Submucosal Dissection also use a small tube passed down the throat and in the stomach, but the technique is different and allows for the removal of larger tumors. This technique should normally"
+            }
+        ]
+    },
+    "What is radiation therapy?": {
+        "concepts": [
+            "SideEffect",
+            "Treatment",
+            "Cancer",
+            "RadiationTherapy"
+        ],
+        "results": [
+            {
+                "rank": 1,
+                "chunk_id": "DOC_009_CHUNK_0004",
+                "document_title": "radiation-therapy-and-you-national-cancer-institute-3665",
+                "page": null,
+                "semantic_score": 0.9373958110809326,
+                "lexical_score": 0.9999999986696595,
+                "ontology_score": 0.6666666666666666,
+                "final_score": 0.9020312384746975,
+                "text": "www.cancer.gov 1 Questions and Answers about Radiation /T_herapy What is radiation therapy? Radiation therapy (also called radiotherapy) is a cancer treatment that uses high doses of radiation to kill cancer cells and shrink tumors. At low doses, radiation is used as an x-ray to see inside your body and take pictures, such as x-rays of your teeth or broken bones. How is radiation therapy given? Radiation therapy can be external beam or internal. External beam involves a machine outside your body that aims radiation at cancer cells. Internal radiation therapy involves placing radiation inside your body, in or near the cancer. Sometimes people get both forms of radiation therapy. To learn more about external beam radiation therapy, see page 9. To learn more about internal radiation therapy, see page 15. Who gets radiation therapy? Many people with cancer need treatment with radiation therapy. In fact, more than half (about 60%) of people with cancer have radiation therapy. Sometimes, radiation therapy is the only kind of cancer treatment people have. What does radiation therapy do to cancer cells? Given in high doses, radiation kills or slows the growth of cancer cells. Radiation therapy is used to: Î Treat cancer. Radiation can be used to cure cancer, to prevent it from returning, or to stop or slow its growth. Î Reduce symptoms. When a cure is not possible, radiation may be used to treat pain and other problems caused by the cancer tumor. Or, it can prevent problems that may be caused by a growing tumor, such as blindness or loss of bowel and bladder control."
+            },
+            {
+                "rank": 2,
+                "chunk_id": "DOC_009_CHUNK_0006",
+                "document_title": "radiation-therapy-and-you-national-cancer-institute-3665",
+                "page": null,
+                "semantic_score": 0.9058017134666443,
+                "lexical_score": 0.8253290003661619,
+                "ontology_score": 0.6666666666666666,
+                "final_score": 0.833832890176504,
+                "text": "www.cancer.gov 3 Is radiation therapy used with other types of cancer treatment? Y es, radiation therapy is o/f_ten used with other cancer treatments. Here are some examples: Î Radiation therapy and surgery. Radiation may be given before, during, or a/f_ter surgery. Doctors may use radiation to shrink the size of the cancer before surgery, or they may use radiation a/f_ter surgery to kill any cancer cells that remain. Sometimes, radiation therapy is given during surgery, so that it goes straight to the cancer without passing through the skin. Radiation therapy given during surgery is called intraoperative radiation. Î Radiation therapy, chemotherapy, and immunotherapy. Radiation may be given before, during, or a/f_ter chemotherapy and immunotherapy. Before or during these other treatments, radiation therapy can shrink the cancer so that the treatments work better. A/f_ter treatment, radiation can be used to kill any cancer cells that remain. Is radiation therapy expensive? Y es, radiation therapy costs a lot of money. It uses complex machines and involves the services of many health care providers. /T_he exact cost of your radiation therapy depends on the cost of health car e where you live, what kind of radiation therapy you get, and how many tre atments you need. Talk with your health insurance company about what services it will pay for. Most insurance plans pay for radiation therapy. T o learn more, talk with the business oﬃce of the clinic or hospital where you go for treatment. If you need /f_inancial assistance, there are organizations that may be able to help. T o /f_ind such organizations, go to the National Cancer Institute database, Organizations that Oﬀer Support Services at: supportorgs.cancer.gov and search “/f_inancial assistance. ” Or call toll-free 1-800-4-CANCER (1-800-422-6237) to ask for information on organizations that may help."
+            },
+            {
+                "rank": 3,
+                "chunk_id": "DOC_009_CHUNK_0011",
+                "document_title": "radiation-therapy-and-you-national-cancer-institute-3665",
+                "page": null,
+                "semantic_score": 0.9500299096107483,
+                "lexical_score": 0.6616477757563782,
+                "ontology_score": 0.6666666666666666,
+                "final_score": 0.806842620865621,
+                "text": "www.cancer.gov 9 External Beam Radiation /T_herapy What is external beam radiation therapy? External beam radiation therapy comes from a machin e that aims radiation at your cancer. /T_he machine is large and may be noisy. It does not touch you, but it can move around you, sending radiation to your body from many directions. External beam radiation therapy is a local treatment, meaning that the radiation treats a speci/f_ic part of your body. For example, if you have lung cancer, you will have radiation only to your chest, not to the rest of your body. External beam radiation therapy comes from a machine that aims radiation at your cancer."
+            }
+        ]
+    },
+    "What are the side effects of radiation therapy?": {
+        "concepts": [
+            "SideEffect",
+            "Treatment",
+            "Cancer",
+            "RadiationTherapy"
+        ],
+        "results": [
+            {
+                "rank": 1,
+                "chunk_id": "DOC_009_CHUNK_0004",
+                "document_title": "radiation-therapy-and-you-national-cancer-institute-3665",
+                "page": null,
+                "semantic_score": 0.6551633477210999,
+                "lexical_score": 0.9999999980606855,
+                "ontology_score": 0.6666666666666666,
+                "final_score": 0.7609150066120889,
+                "text": "www.cancer.gov 1 Questions and Answers about Radiation /T_herapy What is radiation therapy? Radiation therapy (also called radiotherapy) is a cancer treatment that uses high doses of radiation to kill cancer cells and shrink tumors. At low doses, radiation is used as an x-ray to see inside your body and take pictures, such as x-rays of your teeth or broken bones. How is radiation therapy given? Radiation therapy can be external beam or internal. External beam involves a machine outside your body that aims radiation at cancer cells. Internal radiation therapy involves placing radiation inside your body, in or near the cancer. Sometimes people get both forms of radiation therapy. To learn more about external beam radiation therapy, see page 9. To learn more about internal radiation therapy, see page 15. Who gets radiation therapy? Many people with cancer need treatment with radiation therapy. In fact, more than half (about 60%) of people with cancer have radiation therapy. Sometimes, radiation therapy is the only kind of cancer treatment people have. What does radiation therapy do to cancer cells? Given in high doses, radiation kills or slows the growth of cancer cells. Radiation therapy is used to: Î Treat cancer. Radiation can be used to cure cancer, to prevent it from returning, or to stop or slow its growth. Î Reduce symptoms. When a cure is not possible, radiation may be used to treat pain and other problems caused by the cancer tumor. Or, it can prevent problems that may be caused by a growing tumor, such as blindness or loss of bowel and bladder control."
+            },
+            {
+                "rank": 2,
+                "chunk_id": "DOC_009_CHUNK_0019",
+                "document_title": "radiation-therapy-and-you-national-cancer-institute-3665",
+                "page": null,
+                "semantic_score": 0.8948572874069214,
+                "lexical_score": 0.47067065637769967,
+                "ontology_score": 0.6666666666666666,
+                "final_score": 0.7219631739501039,
+                "text": "www.cancer.gov 19 Radiation /T_herapy Side Eﬀects Side eﬀects are problems that can occur as a result of treatment. /T_hey may occur with radiation therapy because the high doses of radiation that are used to kill cancer cells can also damage healthy cells in the treatment area. Side eﬀects are diﬀerent for each person. Some people have many side eﬀects. Others have hardly any. Side eﬀects may be more severe if you also receive other types of cancer treatments before, during, or a/f_ter your radiation therapy. Talk with your doctor or nurse about your chances of having side eﬀects. /T_he team will watch you closely and ask if you notice any problems. If you do have side eﬀects, your doctor or nurse will talk with you about ways to manage them. Common Side Eﬀects Many people who get radiation therapy have skin changes and some fatigue. Other side eﬀects depend on the part of your body being treated. Skin changes may include dryness, itching, peeling, or blistering in the treatment area. /T_hese changes occur because radiation passes through the skin on its way to the cancer. Y ou will need to take special care of your skin during radiation therapy. To learn more, see page 40. Fatigue is o/f_ten described as feeling weary or exhausted. /T_here are many ways to manage fatigue. To learn more, see page 24. Depending on the part of your body being treated, you may also have: Î diarrhea Î hair loss in treatment area Î mouth problems Î nausea and vomiting Î sexual changes Î swelling Î trouble swallowing Î urinary and bladder changes Most of these side eﬀects go away a few months a/f_ter you have /f_inished radiation therapy."
+            },
+            {
+                "rank": 3,
+                "chunk_id": "DOC_009_CHUNK_0009",
+                "document_title": "radiation-therapy-and-you-national-cancer-institute-3665",
+                "page": null,
+                "semantic_score": 0.8464283347129822,
+                "lexical_score": 0.5233731299528054,
+                "ontology_score": 0.6666666666666666,
+                "final_score": 0.713559439675666,
+                "text": "1-800-4-CANCER (1-800-422-6237)6 How do I make the most of radiation therapy? Y ou have an important role to play in your radiation therapy. To get the most from this treatment: Î Arrive on time for all radiation therapy sessions. Î Ask questions and talk about your concerns. Î Tell someone on your radiation therapy team when you have side eﬀects and changes with eating or bowel habits. Î Tell your doctor or nurse if you are in pain. Follow the advice of your doctors and nurses about how to care for yourself at home, such as: Î taking care of your skin Î drinking enough liquids Î eating foods to help with side eﬀects Î maintaining your weight - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - Make a list of questions and problems you want to discuss with your doctor or nurse. Be sure to bring this list to your follow-up visits. See pages 49 and 50 for sample questions. - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - Be sure to arrive on time for ALL radiation therapy sessions. - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -"
+            }
+        ]
+    },
+    "What is melanoma?": {
+        "concepts": [
+            "Melanoma",
+            "Cancer"
+        ],
+        "results": [
+            {
+                "rank": 1,
+                "chunk_id": "DOC_007_CHUNK_0006",
+                "document_title": "melanoma-nccn-guidelines-for-patients-national-comprehensive-cancer-network-3671",
+                "page": null,
+                "semantic_score": 0.9981839060783386,
+                "lexical_score": 0.6991134482897106,
+                "ontology_score": 1.0,
+                "final_score": 0.9088259875260825,
+                "text": "5 NCCN Guidelines for Patients® Melanoma, 2026 1 About melanoma Melanoma is a serious form of skin cancer. But it can be curable, especially if caught early. This patient guideline provides the latest information on melanoma testing, staging, and treatment to help you make informed decisions with your doctor. First, it’s important to know what exactly melanoma is. What is melanoma? Melanoma is one of the most serious types of skin cancer because it spreads beyond the skin more often than other skin cancers. But if discovered early, it’s curable with the right treatment. More than 3 in 4 are found early— before they have spread—and when they're easier to treat. Melanoma occurs when something goes wrong in your melanocytes. Melanocytes are skin cells that make melanin, a pigment that gives your skin its color. When skin cells are damaged, new cells may grow out of control and can form a mass of cancerous cells. For more information on where melanoma starts and how to prevent it, see the next chapter: Melanoma risk, prevention, and detection. Diagnosing and treating melanoma early can lead to better results. It's also encouraging that more eႇective treatments have become available in the past decade for melanoma that has spread (metastasized). Melanoma skin cancer Melanoma usually has an irregular shape and different colors. It can show up as a change to an existing mole but also can appear as a new spot on the skin. See Chapter 2 to learn about the ABCDE rule."
+            },
+            {
+                "rank": 2,
+                "chunk_id": "DOC_007_CHUNK_0007",
+                "document_title": "melanoma-nccn-guidelines-for-patients-national-comprehensive-cancer-network-3671",
+                "page": null,
+                "semantic_score": 0.9500437378883362,
+                "lexical_score": 0.739962342552546,
+                "ontology_score": 1.0,
+                "final_score": 0.8970105717099319,
+                "text": "6 NCCN Guidelines for Patients® Melanoma, 2026 1 About melanoma Important note: While melanoma often occurs in people over 50 years of age, it can occur in anyone at any age—even children. What are the signs of melanoma? Melanoma spots (also called lesions or tumors) can be found anywhere on your body. Most often, they are found in areas of highintensity sun exposure, such as the trunk, legs, arms, and head. They may appear (develop) on normal skin or as a new mole or one that has changed. Sometimes, melanoma can be found in areas that get little or no sun exposure and are called acral melanomas. These areas can include the soles of your feet, palms of your hands, and underneath your fingernails or toenails. People with darker skin are more likely to develop melanoma in areas that are less exposed to the sun. Melanoma can also occur on internal mucosal surfaces, such as in the mouth, inside of the nose, on the tongue, in the intestines, and in the genital areas (mucosal melanoma); as well as in the eyes (ocular or uveal melanoma). Although rare, melanoma can also show as a bump or a nodule that lacks dark pigment (usually pink or light brown in color), called amelanotic melanoma. When you or your health care provider examines your skin, attention should be paid to the following:  A mole that has changed in any way: size, shape, or color  A new spot on the skin that persists, becomes raised, or bleeds easily  Ugly duckling sign: a spot that looks diႇerent from other spots on your skin To learn more about spotting melanoma on your own and about the ABCDE rule for moles, see Chapter 2: Melanoma risk, prevention, and detection. How is melanoma treated? Treatment for melanoma depends on the extent of the cancer, known as its stage. Staging of melanoma happens twice: after biopsy and after surgery. The reason for 2 staging periods is because surgery often gives more specific information than the original biopsy. This means the melanoma could be changed to a higher stage (upstaged) and treated diႇerently at that point. There are 5 stages of melanoma that range from stage 0 (in situ) to stage 4 (metastatic melanoma). For more detailed information on staging, read Chapter 4: Staging for melanoma."
+            },
+            {
+                "rank": 3,
+                "chunk_id": "DOC_007_CHUNK_0034",
+                "document_title": "melanoma-nccn-guidelines-for-patients-national-comprehensive-cancer-network-3671",
+                "page": null,
+                "semantic_score": 0.975229024887085,
+                "lexical_score": 0.5351670719049253,
+                "ontology_score": 1.0,
+                "final_score": 0.84816463401502,
+                "text": "33 NCCN Guidelines for Patients® Melanoma, 2026 4 Staging for melanoma A summary of stages Because it might be challenging to follow the clinical and pathological stages on their own, they’re summarized below and described in more detail in the stage-specific chapters. In general, stage 0, stage 1, and stage 2 melanoma are early cancers of the skin that are not known to have spread elsewhere. Surgery is the most common treatment. For more detailed information on early-stage melanoma, see Chapter 6: Treatment for stages 0 to 2: Early stage. Stage 3 melanoma has spread but is considered regional (or local). Once the tumor is considered stage 3, it involves the lymph nodes and lymphatic vessels. After surgery, it’s broken down into 4 pathological stages (3A, 3B, 3C, and 3D). For more detailed information on stage 3 melanoma, see Chapter 7: Treatment for stage 3: Regional spread. Stage 4 melanoma is cancer that has spread (metastasized) to distant areas of the body, such as the lungs, liver, brain, bones, or GI tract. For more detailed information on stage 4 melanoma, see Chapter 9: Treatment for stage 4: Metastatic melanoma. If you have any questions, be sure to ask your provider to explain the melanoma in a way that you can best understand it. While a diagnosis of melanoma can be scary, many advances in treatment have been made in the past decade."
+            }
+        ]
+    },
+    "How is melanoma diagnosed?": {
+        "concepts": [
+            "Melanoma",
+            "Cancer"
+        ],
+        "results": [
+            {
+                "rank": 1,
+                "chunk_id": "DOC_007_CHUNK_0006",
+                "document_title": "melanoma-nccn-guidelines-for-patients-national-comprehensive-cancer-network-3671",
+                "page": null,
+                "semantic_score": 0.9599994421005249,
+                "lexical_score": 0.6991134475436366,
+                "ontology_score": 1.0,
+                "final_score": 0.8897337553133535,
+                "text": "5 NCCN Guidelines for Patients® Melanoma, 2026 1 About melanoma Melanoma is a serious form of skin cancer. But it can be curable, especially if caught early. This patient guideline provides the latest information on melanoma testing, staging, and treatment to help you make informed decisions with your doctor. First, it’s important to know what exactly melanoma is. What is melanoma? Melanoma is one of the most serious types of skin cancer because it spreads beyond the skin more often than other skin cancers. But if discovered early, it’s curable with the right treatment. More than 3 in 4 are found early— before they have spread—and when they're easier to treat. Melanoma occurs when something goes wrong in your melanocytes. Melanocytes are skin cells that make melanin, a pigment that gives your skin its color. When skin cells are damaged, new cells may grow out of control and can form a mass of cancerous cells. For more information on where melanoma starts and how to prevent it, see the next chapter: Melanoma risk, prevention, and detection. Diagnosing and treating melanoma early can lead to better results. It's also encouraging that more eႇective treatments have become available in the past decade for melanoma that has spread (metastasized). Melanoma skin cancer Melanoma usually has an irregular shape and different colors. It can show up as a change to an existing mole but also can appear as a new spot on the skin. See Chapter 2 to learn about the ABCDE rule."
+            },
+            {
+                "rank": 2,
+                "chunk_id": "DOC_007_CHUNK_0007",
+                "document_title": "melanoma-nccn-guidelines-for-patients-national-comprehensive-cancer-network-3671",
+                "page": null,
+                "semantic_score": 0.8501302003860474,
+                "lexical_score": 0.7399623417628793,
+                "ontology_score": 1.0,
+                "final_score": 0.8470538027218875,
+                "text": "6 NCCN Guidelines for Patients® Melanoma, 2026 1 About melanoma Important note: While melanoma often occurs in people over 50 years of age, it can occur in anyone at any age—even children. What are the signs of melanoma? Melanoma spots (also called lesions or tumors) can be found anywhere on your body. Most often, they are found in areas of highintensity sun exposure, such as the trunk, legs, arms, and head. They may appear (develop) on normal skin or as a new mole or one that has changed. Sometimes, melanoma can be found in areas that get little or no sun exposure and are called acral melanomas. These areas can include the soles of your feet, palms of your hands, and underneath your fingernails or toenails. People with darker skin are more likely to develop melanoma in areas that are less exposed to the sun. Melanoma can also occur on internal mucosal surfaces, such as in the mouth, inside of the nose, on the tongue, in the intestines, and in the genital areas (mucosal melanoma); as well as in the eyes (ocular or uveal melanoma). Although rare, melanoma can also show as a bump or a nodule that lacks dark pigment (usually pink or light brown in color), called amelanotic melanoma. When you or your health care provider examines your skin, attention should be paid to the following:  A mole that has changed in any way: size, shape, or color  A new spot on the skin that persists, becomes raised, or bleeds easily  Ugly duckling sign: a spot that looks diႇerent from other spots on your skin To learn more about spotting melanoma on your own and about the ABCDE rule for moles, see Chapter 2: Melanoma risk, prevention, and detection. How is melanoma treated? Treatment for melanoma depends on the extent of the cancer, known as its stage. Staging of melanoma happens twice: after biopsy and after surgery. The reason for 2 staging periods is because surgery often gives more specific information than the original biopsy. This means the melanoma could be changed to a higher stage (upstaged) and treated diႇerently at that point. There are 5 stages of melanoma that range from stage 0 (in situ) to stage 4 (metastatic melanoma). For more detailed information on staging, read Chapter 4: Staging for melanoma."
+            },
+            {
+                "rank": 3,
+                "chunk_id": "DOC_007_CHUNK_0030",
+                "document_title": "melanoma-nccn-guidelines-for-patients-national-comprehensive-cancer-network-3671",
+                "page": null,
+                "semantic_score": 1.0,
+                "lexical_score": 0.4142464460439493,
+                "ontology_score": 1.0,
+                "final_score": 0.8242739338131848,
+                "text": "29 NCCN Guidelines for Patients® Melanoma, 2026 3 Testing for melanoma Key points  Basic health tests help your care team assess the extent (cancer stage) of the melanoma.  A medical history is a record of all health issues and treatments you’ve had in your life, including other cancers.  A head-to-toe skin exam should include a review of the scalp, face, mouth, eyes and eyelids, ears, trunk and extremities, hands, fingers, feet, toes, and toenails. This includes examining your skin for lesions (spots).  A melanoma diagnosis is mostly based on the results of a skin biopsy. If you have an unusual lesion, it will be removed and sent to a lab to be examined.  Imaging tests take pictures of the inside of your body, which are examined to look for cancer. Not everyone with melanoma needs imaging tests.  Biomarker or molecular tests look for certain genes, proteins, or other molecules in a sample of tissue, blood, or other bodily Àuid. These tests are sometimes used to help diagnose melanoma, and to stage and treat it.  Blood tests are not often done to diagnose melanoma but may be done before or during treatment for advanced melanomas. Questions to ask  Why did I get this specific test?  Do the tests have any risks?  Do I need other tests to confirm my diagnosis?  How much scarring will there be from the biopsy?  Should I use over-the-counter antiscarring products to help minimize scarring? What’s next This chapter gave an overview of the diႇerent types of tests, from skin exams and genetic tests to imaging, which are used to diagnose melanoma. Now that you know the kinds of tests you might have, read the next chapter on the variety of treatments available. To find out more specifically how the melanoma might be treated, read about it in the stage-specific chapters."
+            }
+        ]
+    },
+    "What is osteosarcoma?": {
+        "concepts": [
+            "Osteosarcoma",
+            "Cancer"
+        ],
+        "results": [
+            {
+                "rank": 1,
+                "chunk_id": "DOC_008_CHUNK_0000",
+                "document_title": "osteosarcoma-diagnosis-management-and-treatment-david-s-geller-richard-gorlick-3676",
+                "page": null,
+                "semantic_score": 1.0,
+                "lexical_score": 0.9999999976698418,
+                "ontology_score": 0.5,
+                "final_score": 0.8999999993009525,
+                "text": "Osteosarcoma: Diagnosis, Management, and Treatment D AV I D S. G E L L E R & R I C H A R D G O R L I C K"
+            },
+            {
+                "rank": 2,
+                "chunk_id": "DOC_008_CHUNK_0003",
+                "document_title": "osteosarcoma-diagnosis-management-and-treatment-david-s-geller-richard-gorlick-3676",
+                "page": null,
+                "semantic_score": 0.8341173529624939,
+                "lexical_score": 0.8569945777436636,
+                "ontology_score": 1.0,
+                "final_score": 0.874157049804346,
+                "text": "or anthracycline-containing chemotherapies. 12,14,17 More recently, it has been shown that even after radiation and chemotherapy treatments are controlled for, primary childhood sarcoma survivors are at an increased risk for a second malignancy, with osteosarcoma occurring approximately one-third of the time.15 A review of 3,482 cases using the Surveillance, Epidemiology and End Results (SEER) 17 database found the overall incidence of osteosarcoma as a second cancer to be 10%. 3 A second recognized risk factor for the development of osteosarcoma is Paget disease of bone, or osteitis deformans, which is an uncoupling of bone formation and resorption resulting in an accelerated rate of bone turnover. The incidence of malignant transformation of Paget disease is approximately 1%,18 relatively unchanged from historical reviews. 19,20 Although histologically the same as spontaneous osteosarcomas, those arising from Paget disease demonstrate a remarkably poor outcome, 21 with no significant improvement in treatment or survival despite the advent of modern adjuvant treatments. 22 There is some evidence that the association between Paget and osteosarcoma is in fact a genetic predisposition, with both demonstrating a loss of heterozygosity involving, to varying extents, the distal end of chromosome 18.23 There are a number of inherited genetic conditions that predispose affected individuals to a variety of malig nancies, among them osteosarcoma. These include hereditary retinoblastoma, Li-Fraumeni syndrome, Rothmund-Thomson syndrome, and Bloom and Werner syndromes. In patients carrying a germline mutation of the RB gene, osteosarcoma is the second most common malignancy to develop after retinoblastoma, 24 and it occurs at an incidence 500 times that of the normal population.25 In general, greater than 70% of all osteosarcomas demonstrate an overt form of mutation in the RB gene.26 Li-Fraumeni is a familial syndrome, which involves the germline mutation of p53, predisposing affected individuals to a multitude of cancers including breast cancer, brain cancers, soft tissue sarcomas, leukemia, adrenocortical tumors, and osteosarcoma. Osteosarcoma has been reported as being the second most common malignancy in this patient population, with an incidence of around 12%.27 Approximately 71% of cases demonstrate a p53 tumor suppressor gene mutation on chromosome 17p13, implicating this genetic defect as a likely but not exclusive cause of malignancy in this syndrome. 28 Overall, the number of osteosarcoma cases associated with a germline p53 mutation is low, and in the pediatric population has been reported to be involved in only approximately 3% of cases.29 Although over two-thirds of cases are associated with an overt mutation in the RB and p53 genes, it is conceivable that more elusive defects in their associated pathways exist. The role of RB and p53 may be far understated, and it has been postulated to be essential in the development of this and many other cancers. Rothmund-Thomson syndrome, or poikiloderma congenitale, is a genomic instability syndrome with RECQL4 gene mutations identified in approximately 70% of cases. Although sporadic osteosarcoma has not been linked to RECQL4 gene mutations, osteosarcoma"
+            },
+            {
+                "rank": 3,
+                "chunk_id": "DOC_008_CHUNK_0002",
+                "document_title": "osteosarcoma-diagnosis-management-and-treatment-david-s-geller-richard-gorlick-3676",
+                "page": null,
+                "semantic_score": 0.8039696216583252,
+                "lexical_score": 0.7386213363409619,
+                "ontology_score": 1.0,
+                "final_score": 0.8235712117314511,
+                "text": "706 Clinical Advances in Hematology & Oncology Volume 8, Issue 10 October 2010 g e l l e r A n d g O r l I C k of bone or, less commonly, another benign bone lesion. A multi-institutional review of the Japanese population reports a lower incidence of Paget disease and a higher incidence of primary adult osteosarcoma, suggesting either a geographic or ethnic influence on incidence.8 Adolescent and early adult osteosarcoma (ages 0–24 years) occurs at an age-adjusted incidence of 4.4 per million within the United States.6 Incidence is higher among males (male:female ratio, 1.43:1), but peaks earlier among females (age 12 vs 16 years). An association between rapid bone growth and osteosarcoma has been argued, given the tumor’s typical metaphyseal location and its peak incidence during adolescence and early adulthood. Support for this theory includes a 185-fold risk in large-breed compared with small-breed canines.9 Patients with osteosarcoma have been found to be significantly taller than the general population10,11 and the earlier age of onset in the female population also seems to indirectly support this theory, given earlier skeletal growth and maturity in females compared with males. Incidence is highest among Asian/Pacific Islanders (5.3 per million) followed by blacks (5.1 per million), Hispanics (4.9 per million), whites (4.4 per million), and American Indian/Alaskan natives (3.0 per million). The second peak, between the ages of 60 and 85, demonstrates an incidence within the United States of 4.2 per million, and is overall more common among females (male:female ratio, 0.89:1), though Paget-associated osteosarcoma is more frequent among males (male:female ratio, 1.58:1). The greatest incidence within this age group is among blacks (4.6 per million), followed by whites (3.7 per million), Hispanics (3.0 per million), American Indian/Alaskan natives (2.9 per million), and Asian/Pacific Islanders (1.9 per million). Pathogenesis Several risk factors for the development of osteosarcoma are well established. The use of ionizing radiation for the treatment of childhood solid cancers has been well implicated in the development of a second malignancy, 12,13 of which osteosarcoma is the most likely to develop within the first 2 decades following treatment.12,14 A more recent review of 108 secondary sarcomas in patients surviving all types of childhood malignancies found osteosarcoma to be the second most common cancer, occurring in 31 of 100 classifiable tumors. 15 This association has been attributed to high cumulative radiation doses 16 as well as high doses of alkylator or anthracycline-containing chemotherapies. 12,14,17 More recently, it has been shown that even after radiation and chemotherapy treatments are controlled for, primary childhood sarcoma survivors are at an increased risk for a second malignancy, with osteosarcoma occurring approximately one-third of the time.15 A review of 3,482 cases using the Surveillance, Epidemiology and End Results (SEER) 17 database found the overall incidence of osteosarcoma as a second cancer to be 10%. 3 A second recognized risk factor for the development of osteosarcoma is Paget disease of bone, or osteitis deformans, which is an uncoupling of bone formation and resorption resulting in an"
+            }
+        ]
+    },
+    "How is osteosarcoma treated?": {
+        "concepts": [
+            "Osteosarcoma",
+            "Cancer"
+        ],
+        "results": [
+            {
+                "rank": 1,
+                "chunk_id": "DOC_008_CHUNK_0000",
+                "document_title": "osteosarcoma-diagnosis-management-and-treatment-david-s-geller-richard-gorlick-3676",
+                "page": null,
+                "semantic_score": 1.0,
+                "lexical_score": 0.9999999969640936,
+                "ontology_score": 0.5,
+                "final_score": 0.8999999990892281,
+                "text": "Osteosarcoma: Diagnosis, Management, and Treatment D AV I D S. G E L L E R & R I C H A R D G O R L I C K"
+            },
+            {
+                "rank": 2,
+                "chunk_id": "DOC_008_CHUNK_0003",
+                "document_title": "osteosarcoma-diagnosis-management-and-treatment-david-s-geller-richard-gorlick-3676",
+                "page": null,
+                "semantic_score": 0.7858738899230957,
+                "lexical_score": 0.8569945771388412,
+                "ontology_score": 1.0,
+                "final_score": 0.8500353181032001,
+                "text": "or anthracycline-containing chemotherapies. 12,14,17 More recently, it has been shown that even after radiation and chemotherapy treatments are controlled for, primary childhood sarcoma survivors are at an increased risk for a second malignancy, with osteosarcoma occurring approximately one-third of the time.15 A review of 3,482 cases using the Surveillance, Epidemiology and End Results (SEER) 17 database found the overall incidence of osteosarcoma as a second cancer to be 10%. 3 A second recognized risk factor for the development of osteosarcoma is Paget disease of bone, or osteitis deformans, which is an uncoupling of bone formation and resorption resulting in an accelerated rate of bone turnover. The incidence of malignant transformation of Paget disease is approximately 1%,18 relatively unchanged from historical reviews. 19,20 Although histologically the same as spontaneous osteosarcomas, those arising from Paget disease demonstrate a remarkably poor outcome, 21 with no significant improvement in treatment or survival despite the advent of modern adjuvant treatments. 22 There is some evidence that the association between Paget and osteosarcoma is in fact a genetic predisposition, with both demonstrating a loss of heterozygosity involving, to varying extents, the distal end of chromosome 18.23 There are a number of inherited genetic conditions that predispose affected individuals to a variety of malig nancies, among them osteosarcoma. These include hereditary retinoblastoma, Li-Fraumeni syndrome, Rothmund-Thomson syndrome, and Bloom and Werner syndromes. In patients carrying a germline mutation of the RB gene, osteosarcoma is the second most common malignancy to develop after retinoblastoma, 24 and it occurs at an incidence 500 times that of the normal population.25 In general, greater than 70% of all osteosarcomas demonstrate an overt form of mutation in the RB gene.26 Li-Fraumeni is a familial syndrome, which involves the germline mutation of p53, predisposing affected individuals to a multitude of cancers including breast cancer, brain cancers, soft tissue sarcomas, leukemia, adrenocortical tumors, and osteosarcoma. Osteosarcoma has been reported as being the second most common malignancy in this patient population, with an incidence of around 12%.27 Approximately 71% of cases demonstrate a p53 tumor suppressor gene mutation on chromosome 17p13, implicating this genetic defect as a likely but not exclusive cause of malignancy in this syndrome. 28 Overall, the number of osteosarcoma cases associated with a germline p53 mutation is low, and in the pediatric population has been reported to be involved in only approximately 3% of cases.29 Although over two-thirds of cases are associated with an overt mutation in the RB and p53 genes, it is conceivable that more elusive defects in their associated pathways exist. The role of RB and p53 may be far understated, and it has been postulated to be essential in the development of this and many other cancers. Rothmund-Thomson syndrome, or poikiloderma congenitale, is a genomic instability syndrome with RECQL4 gene mutations identified in approximately 70% of cases. Although sporadic osteosarcoma has not been linked to RECQL4 gene mutations, osteosarcoma"
+            },
+            {
+                "rank": 3,
+                "chunk_id": "DOC_008_CHUNK_0024",
+                "document_title": "osteosarcoma-diagnosis-management-and-treatment-david-s-geller-richard-gorlick-3676",
+                "page": null,
+                "semantic_score": 0.6880093216896057,
+                "lexical_score": 0.9161830459849871,
+                "ontology_score": 1.0,
+                "final_score": 0.8188595746402989,
+                "text": "with neoadjuvant chemotherapy. Clin Orthop Relat Res. 1993;295:226-238. 52. Grimer RJ, Carter SR, Pynsent PB. The cost-effectiveness of limb salvage for bone tumours. J Bone Joint Surg Br. 1997;79:558-561. 53. Hanlon M, Krajbich JI. Rotationplasty in skeletally immature patients. Longterm followup results. Clin Orthop Relat Res. 1999;358:75-82. 54. Winkelmann WW. T ype-B-IIIa hip rotationplasty: an alternative operation for the treatment of malignant tumors of the femur in early childhood. J Bone Joint Surg Am. 2000;82:814-828. 55. Kempf-Bielack B, Bielack SS, Jurgens H, et al. Osteosarcoma relapse after combined modality therapy: an analysis of unselected patients in the Cooperative Osteosarcoma Study Group (COSS). J Clin Oncol. 2005;23:559-568. 56. Eilber FR, Rosen G. Adjuvant chemotherapy for osteosarcoma. Semin Oncol. 1989;16:312-322. 57. Link MP, Goorin AM, Miser A W, et al. The effect of adjuvant chemotherapy on relapse-free survival in patients with osteosarcoma of the extremity. N Engl J Med. 1986;314:1600-1606. 58. Saeter G, Hoie J, Stenwig AE, Johansson AK, Hannisdal E, Solheim OP. Systemic relapse of patients with osteogenic sarcoma. Prognostic factors for long term survival. Cancer. 1995;75:1084-1093. 59. Chou AJ, Merola PR, Wexler LH, et al. T reatment of osteosarcoma at first recurrence after contemporary therapy: the Memorial Sloan-Kettering Cancer Center experience. Cancer. 2005;104:2214-2221. 60. Ferrari S, Briccoli A, Mercuri M, et al. Postrelapse survival in osteosarcoma of the extremities: prognostic factors for long-term survival. J Clin Oncol. 2003;21:710-715. 61. Carli M, Passone E, Perilongo G, Bisogno G. Ifosfamide in pediatric solid tumors. Oncology. 2003;65(Suppl 2):99-104. 62. Fuchs N, Bielack SS, Epler D, et al. Long-term results of the co-operative German-Austrian-Swiss osteosarcoma study group’s protocol COSS-86 of intensive multidrug chemotherapy and surgery for osteosarcoma of the limbs. Ann Oncol. 1998;9:893-899. 63. Bacci G, Ferrari S, Bertoni F, et al. Long-term outcome for patients with nonmetastatic osteosarcoma of the extremity treated at the istituto ortopedico rizzoli according to the istituto ortopedico rizzoli/osteosarcoma-2 protocol: an updated report. J Clin Oncol. 2000;18:4016-4027. 64. Goorin AM, Harris MB, Bernstein M, et al. Phase II/III trial of etoposide and high-dose ifosfamide in newly diagnosed metastatic osteosarcoma: a pediatric oncology group trial. J Clin Oncol. 2002;20:426-433. 65. Meyers PA, Schwartz CL, Krailo MD, et al. Osteosarcoma: the addition of muramyl tripeptide to chemotherapy improves overall survival–a report from the Children’s Oncology Group. J Clin Oncol. 2008;26:633-638. 66. Schwartz CL, Wexler LH, Devidas M, et al. Non-metastatic osteosarcoma: response based augmentation of therapy. Paper presented at: Connective Tissue Oncology Society Annual Meeting; November 2–4, 2006; V enice, Italy. 67. Jeys LM, Grimer RJ, Carter SR, Tillman RM, Abudu A. Post operative infection and increased survival in osteosarcoma patients: are they associated? Ann Surg Oncol. 2007;14:2887-2895. 68. Meyers PA. Muramyl tripeptide (mifamurtide) for the treatment of osteosarcoma. Expert Rev Anticancer Ther. 2009;9:1035-1049. 69. Sone S, Mutsuura S, Ogawara M, T subura E. Potentiating effect of muramyl dipeptide and its lipophilic analog encapsulated in liposomes on tumor cell killing by human monocytes. J Immunol. 1984;132:2105-2110. 70. Fidler IJ, Brown NO, Hart IR. Species variability for toxicity of free and liposome-encapsulated"
+            }
+        ]
+    },
+    "What are the risk factors for cervical cancer?": {
+        "concepts": [
+            "RiskFactor",
+            "CervicalCancer",
+            "Cancer",
+            "Melanoma",
+            "StomachCancer",
+            "CancerStage",
+            "Diagnosis",
+            "Treatment",
+            "Osteosarcoma",
+            "Biomarker",
+            "Symptom"
+        ],
+        "results": [
+            {
+                "rank": 1,
+                "chunk_id": "DOC_003_CHUNK_0003",
+                "document_title": "cervical-cancer-mater-misericordiae-university-hospital-3675",
+                "page": null,
+                "semantic_score": 1.0,
+                "lexical_score": 0.9999999975563483,
+                "ontology_score": 0.8,
+                "final_score": 0.9599999992669045,
+                "text": "CERVICAL CANCER Risk Factors The following increase your risk of developing cervical cancer: • HPV virus: Nearly all cervical cancers are caused by the HPV virus. This is a common vi rus passed on during sexual contact. Usually it clears up by itself, although this can take up to 1 8 months. • Smoking: Smoking increases your risk of abnormal changes to the cells in the cervix. Chemicals in cigarettes can affect how your cervix fights HPV infection. • Not having cervical screening: Having regular cervical screening tests can help to find out if you’re at risk and to spot any changes to cervical cells before they turn cancerous. It is important to have regular cervical screening, so that any cell changes can be picked up early. Precancerous cells are often called Cervical Intraepithelial Neoplasia or CIN and these can often be treated within the Colposcopy clinic. Diagnosis Cervical cancer may be suspected after an abnormal cervical smear test or alter natively when symptoms develop. A biopsy is important to make the diagnosis and also identify which type of cervical cancer you have. The biopsy is often performed at a colposcopy clinic under local anaesthetic or occasionally under general anaesthetic. Following a diagnosis, you will have general blood tests and specific rad iological scans to check whether the cancer has spread beyond the cervix. These scans are often a combination of an MRI, CT scan and/or a specialised scan called a CT PET. - CT Scan: This is often a scan to assess your chest, abdomen and pelvis. It is perform ed in the XRay department and involves passing through a circular or “donut” shaped scanner. - MRI Scan: This is a very useful scan to assess the tumour in the cervix, the tissue directly around it and also the lymph nodes in the pelvis. It involves passing into a tunnel and some people find more difficult but the procedure will be explained and the scan will aim to assess the pelvis only. - PET CT: This scan also looks at the entire body and is used to identify if the cancer has spread. You will be referred to the Gynaecological Oncology Multi-Disciplinary Team (MDT). You will attend a clinic appointment with a consultant Gynaecological Oncology Surgeon and will be introduced to a Clinical Nurse Specialist. At this meeting there is often another dis cussion about your symptoms and general health. We may also ask permission to examine you again. The main part of the appointment will, however, focus on discussing results and a treatment plan."
+            },
+            {
+                "rank": 2,
+                "chunk_id": "DOC_003_CHUNK_0004",
+                "document_title": "cervical-cancer-mater-misericordiae-university-hospital-3675",
+                "page": null,
+                "semantic_score": 0.8872783184051514,
+                "lexical_score": 0.9207645469146848,
+                "ontology_score": 0.4,
+                "final_score": 0.7998685232769811,
+                "text": "CERVICAL CANCER Occasionally it is necessary to perform an examination under anaesthetic to fully assess the cervical tumour or obtain a further biopsy. All of our patients are discussed at our MDT meeting with all the memb ers of our extended team. Therefore, each decision for treatment is made by an expert group and is person alised for each patient. Often, we may see you at clinic on the morning before this meeting. You will be given a treatment plan at that visit, however in 1 in 10 cases this plan will be changed at the MDT meeting and we may contact you after this to confirm the treatment plan. Types of Cervical Cancer There are different types of cervical cancer: • Squamous Cell Carcinoma Squamous cells are the flat, skin-like cells that cover the outer surfac e of the cervix (the ectocervix). This is the most common type with between 70 - 80 out o f every 100 cervical cancers (70 - 80%) being this type. • Adenocarcinoma This cancer starts in the gland cells that produce mucus. The cervix has glandular cells scattered along the inside of the passage that runs from the cervix to the womb (the endocervical canal). Adenocarcinoma is less common than squamous cell c ancer, but has become more common in recent years. Around 20 in every 100 cervical cancers (20%) are adenocarcinomas. They tend to be treated in the same way as squamous cell cancer of the cervix. • Small Cell A very rare type of cervical cancer. Around 3 in every 100 women (3%) are diagnosed with cervical cancer have this type. Small cell cancers tend to grow quickly and are treated in a different way to the more common types of cervical cancer. • Other Rare Types Very rarely, other types of cancer can occur in the cervix. For example, lymph omas and sarcomas. They are treated in a different way to squamous and adenocarcinom a cervical cancers."
+            },
+            {
+                "rank": 3,
+                "chunk_id": "DOC_005_CHUNK_0013",
+                "document_title": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+                "page": null,
+                "semantic_score": 0.8983138799667358,
+                "lexical_score": 0.9382989930276058,
+                "ontology_score": 0.2,
+                "final_score": 0.7706466378916497,
+                "text": "12 cell cycle regulation, can increase the risk of developing severa l types of cancer, including breast, colon, and lung cancer. Acquired mutations can also contribute to cancer development. Exposure to environmental factors, such as tobacco smoke, radiation, and certain chemicals, can damage DNA and lead to mutations. In addition, errors during DNA replication or repair can also result in mutations. Environmental factors Environmental factors can play a significant role in the development of cancer. Exposure to certain substances, such as tobacco smoke, alcohol, and certain chemicals, can increase the risk of cancer development. Fo r example, smoking is a major risk factor for lung cancer, while alcohol consumption is a risk factor for liver cancer. Exposure to ionizing radiation, such as X-rays and gamma rays, can also increase the risk of cancer. This type of radiation can damage DNA and lead to mutations, which can contribute to cancer development. People who work in occupations that involve exposure to radiation, such as nuclear worke rs and radiologists, are at increased risk of developing cancer. Other environmental factors that may increase the risk of cancer include air pollution, water pollution, and exposure to certain viruses and bacteria. For example, the human papillomavirus (HPV) is associated with an increased risk of cervical cancer, while the hepatitis B and C viruses are assoc iated with an increased risk of liver cancer. Lifestyle factors Lifestyle factors, such as diet, physical activity, and body weight, can als o influence the development of cancer. A diet high in red and processed meats, for example, has been linked to an increased risk of colorectal c ancer. In contrast, a diet high in fruits, vegetables, and whole grains may reduce the risk of several types of cancer.Physical activity is also import ant for reducing the risk of cancer. Regular exercise can help maintain a healthy body weight and reduce inflammation, both of which are associated with a lower risk of cancer. In addition, physical activity may help reduce the risk of several types of cancer, including breast, colon, and prostate cancer."
+            }
+        ]
+    },
+    "What is the role of biopsy in cancer diagnosis?": {
+        "concepts": [
+            "RiskFactor",
+            "Cancer",
+            "CervicalCancer",
+            "Melanoma",
+            "Imaging",
+            "StomachCancer",
+            "Biopsy",
+            "CancerStage",
+            "Diagnosis",
+            "Treatment",
+            "Osteosarcoma",
+            "Biomarker",
+            "Symptom"
+        ],
+        "results": [
+            {
+                "rank": 1,
+                "chunk_id": "DOC_005_CHUNK_0049",
+                "document_title": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+                "page": null,
+                "semantic_score": 1.0,
+                "lexical_score": 0.6379826086878563,
+                "ontology_score": 0.5714285714285714,
+                "final_score": 0.8056804968920712,
+                "text": "48 These are just a few examples of laboratory tests used in oncolo gy. The specific tests ordered for an individual patient will depend on facto rs such as the type of cancer suspected or diagnosed, the stage of the disease, and the goals of the testing as determined by the healthcare provider. The results of these tests are important in developing an accurate diagnosis and tailoring an appropr iate treatment plan for each patient. Biopsy – (This involves taking a sample of tissue from a suspected tumor to be examined under a microscope for signs of cancer.) A biopsy is a medical procedure performed in oncology to obtain a tissue sample from a suspicious area or tumor for further examination and diagnosis. It involves the removal of a small amount of tissue, cells, or fluid from the b ody, which is then examined under a microscope by a pathologist to determine if cancer or other abnormalities are present. There are different types of biopsies used in oncology, depending on the location and nature of the suspected cancer: Needle Biopsy: This type of biopsy involves inserting a thin needle into the tumor or affected area to obtain a tissue sample. There are different types of needle biopsies, including: Fine-needle aspiration (FNA): Uses a thin needle to extract cells or fluid from a lump or suspicious area. Core needle biopsy: Uses a slightly larger needle to remove a small cylinder of tissue from the tumor. Vacuum-assisted biopsy: Utilizes a needle with a vacuum-powered device to collect multi ple tissue samples with a single insertion. Surgical Biopsy: In some cases, a surgical biopsy may be necessary to obtain a larger tissue sample or if the tumor is deep within the body. Surgical biopsies can b e open biopsies, where a surgeon makes an incision to access the tumor, or minimal ly invasive procedures, such as laparoscopic or endoscopic biopsies, w hich use small incisions and specialized tools to remove tissue samples."
+            },
+            {
+                "rank": 2,
+                "chunk_id": "DOC_005_CHUNK_0050",
+                "document_title": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+                "page": null,
+                "semantic_score": 0.9599204063415527,
+                "lexical_score": 0.5788421027946862,
+                "ontology_score": 0.7142857142857143,
+                "final_score": 0.7964699768663251,
+                "text": "49 Excisional Biopsy: In certain cases, when a small tumor is suspected, the entire tumor ma y be removed during the biopsy procedure. This is known as an excisional biopsy and can serve both diagnostic and therapeutic purposes. The collected tissue samples are sent to a pathology lab oratory, where a pathologist examines them under a microscope. The pathologist look s for signs of cancer cells, their characteristics, and other features that help determ ine the type, grade, and stage of the cancer. This information is crucial in guiding treatment decisions and developing an appropriate treatment plan.Biopsies are typically performed under local anesthesia, but in some cases, general anesthesia may be used. The specific procedure and recovery process depend on th e type and location of the biopsy performed. It's important to note that biopsies are not always necessary for all suspected cancer cases, especially if the diagnosis can be made through non-in vasive imaging techniques or if the tumor is easily accessible for compl ete surgical removal. The decision to perform a biopsy is made based on individ ual patient factors and the judgment of the healthcare team involved in the patient's care. Blood tests - These tests can detect certain substances in the blood tha t may be associated with cancer, such as tumor markers. Urine tests - These tests can detect certain substances in the urine that may be associated with cancer. Genetic tests - These tests can detect mutations in genes that are associated with an increased risk of developing certain types of cancer."
+            },
+            {
+                "rank": 3,
+                "chunk_id": "DOC_005_CHUNK_0057",
+                "document_title": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+                "page": null,
+                "semantic_score": 0.948183000087738,
+                "lexical_score": 0.5050412082920889,
+                "ontology_score": 0.7142857142857143,
+                "final_score": 0.7684610053886386,
+                "text": "56 Diagnosis of Stage IV Cancer Diagnosis of stage IV cancer typically involves a combination of imaging tests, laboratory tests, and biopsies. The goal is to determine the t ype and stage of cancer and to develop a treatment plan tailored to the patient's individual needs. Imaging Tests: Imaging tests may include X-rays, CT scans, MRI scans, PET scans, or ultrasound tests. These tests can help identify the location and size of the cancer and whether it has spread to other parts of the body. Laboratory Tests: Laboratory tests may include blood tests, urine tests, or other tests to detect specific substances in the body that may be associated with cancer. Biopsy: A biopsy involves taking a small sample of tissue from the area suspected of being cancerous and examining it under a microscope. This can hel p confirm the diagnosis of cancer and provide information on the type and st age of the cancer. Staging of Stage IV Cancer Staging of cancer refers to the extent of the cancer and how far it has s pread. In stage IV cancer, the cancer has spread beyond the initial site to other parts of the body. The stage of stage IV cancer is further subdivided into three subcategories: Stage IVA: The cancer has spread to one distant site in the body, such as the liver, lungs, or bones. Stage IVB: The cancer has spread to more than one distant site in the body, such as the liver, lungs, bones, or brain. Stage IVC: The cancer has spread throughout the body, including to distant sites in organs such as the liver, lungs, bones, or brain."
+            }
+        ]
+    },
+    "What is cancer staging?": {
+        "concepts": [
+            "RiskFactor",
+            "Cancer",
+            "CervicalCancer",
+            "Melanoma",
+            "StomachCancer",
+            "CancerStage",
+            "Diagnosis",
+            "Treatment",
+            "Osteosarcoma",
+            "Biomarker",
+            "Symptom"
+        ],
+        "results": [
+            {
+                "rank": 1,
+                "chunk_id": "DOC_007_CHUNK_0033",
+                "document_title": "melanoma-nccn-guidelines-for-patients-national-comprehensive-cancer-network-3671",
+                "page": null,
+                "semantic_score": 0.9310558438301086,
+                "lexical_score": 0.999999997112462,
+                "ontology_score": 0.8,
+                "final_score": 0.9255279210487929,
+                "text": "32 NCCN Guidelines for Patients® Melanoma, 2026 4 Staging for melanoma Clinical vs. pathological With melanoma, you’ll be staged twice. The first time is called clinical staging. The second time is called pathological staging.  Clinical staging happens after the biopsy. This is when you find out you have a diagnosis of melanoma and what stage it is.  Pathological staging happens after you have surgery to remove the tumor and surrounding area (and nearby lymph nodes, if needed) to see how advanced the cancer is. The cancer may have changed from the clinical stage, or additional information from the surgery might alter the stage. This is especially true when a sentinel lymph node biopsy (SLNB) finds melanoma microscopically in nearby lymph nodes. While the clinical stage helps guide treatment, the pathological stage is more accurate and specific. The pathological stage involves more information from the surgery to clarify your diagnosis and to guide further treatment. Breslow thickness: What is it? In your pathology report, you might see Breslow depth or thickness mentioned. This is the measurement, in millimeters (mm), of how deep or thick the melanoma tumor is. Melanoma staging The TNM classi¿cation of malignant tumors reÀecting tumor thickness"
+            },
+            {
+                "rank": 2,
+                "chunk_id": "DOC_005_CHUNK_0051",
+                "document_title": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+                "page": null,
+                "semantic_score": 1.0,
+                "lexical_score": 0.581457771460412,
+                "ontology_score": 0.8,
+                "final_score": 0.8344373314381236,
+                "text": "50 STAGING Once a diagnosis of cancer has been made, the next step is to determine the stage of the cancer. Staging refers to the extent of the cancer and how far it has spread. The stage of cancer is important in determining the best treatment options and the prognosis (outlook) for the patient. The stage of cancer is determined by a combination of imaging tes ts and other diagnostic tests, such as biopsies. The stages of cancer are generally classified as follows: Stage 0 - Cancer is in its earliest stage and has not spread beyond the site where it started. Stage 0 cancer, also known as carcinoma in situ, refers to a very early s tage of cancer where abnormal cells are present only in the layer of cells where they first formed and have not spread to nearby tissues or other parts of the body. Stage 0 cancer is typically detected through screening test s, such as mammograms for breast cancer or colonoscopies for colon cancer, before any symptoms are present. Treatment for stage 0 cancer may involve surger y to remove the abnormal cells or close monitoring to watch for any chang es in the cells. The prognosis for stage 0 cancer is generally very good, as the cancer is localized and has not spread to other parts of the body. However, if left u ntreated, stage 0 cancer can progress to more advanced stages of cancer, which may be more difficult to treat. It is important to follow recommended screening guidelines and to discuss any concerns about cancer with a healthcare professional. Early de tection and treatment can greatly increase the chances of a successful outcome and im prove overall quality of life. Stage I - Cancer is localized and has not spread to nearby lymph nodes or other parts of the body. Stage I cancer is an early stage of cancer that has not yet spread to nearby tissues or lymph nodes. It is typically smaller in size than later sta ges of cancer and has a good prognosis when detected early."
+            },
+            {
+                "rank": 3,
+                "chunk_id": "DOC_007_CHUNK_0032",
+                "document_title": "melanoma-nccn-guidelines-for-patients-national-comprehensive-cancer-network-3671",
+                "page": null,
+                "semantic_score": 0.9436460733413696,
+                "lexical_score": 0.580263854323134,
+                "ontology_score": 0.6,
+                "final_score": 0.765902192967625,
+                "text": "31 NCCN Guidelines for Patients® Melanoma, 2026 4 Staging for melanoma A cancer stage is a way to describe the extent of the cancer at the time you're first diagnosed. Staging is needed to make treatment decisions, and it happens twice with melanoma: after biopsy and after surgery. Understanding the melanoma stage is very important, so don’t hesitate to ask your care team questions. You may have heard of a cancer stage, but what exactly does it mean? It’s essentially a number that’s assigned based on the extent (severity) of the cancer to help guide the treatment. Read on for more details. TNM staging The American Joint Committee on Cancer (AJCC) TNM staging system is widely used to stage melanoma. In this system, the letters T (tumor), N (node or lymph node status), and M (metastasis or spread) describe diႇerent areas of cancer growth. The TNM stages will be combined to assign the cancer stage group.  Tumor depth (T) refers to the thickness of the primary tumor and whether the tumor has broken through the skin like an open sore (this is called ulceration). Tumor depth is measured in millimeters (mm). There are 5 tumor designations (Tis, T1, T2, T3 and T4). See the Figure on the next page.  Lymph node status (N) describes whether the cancer has spread nearby (regionally) through small tubes called lymph vessels or to small, bean-shaped structures (in the neck, armpits, or groin) called lymph nodes. It also includes satellite, in-transit, and/or microsatellite tumors. For more information on these tumors, see Chapter 7: Treatment for stage 3: Regional spread.  Metastasis (M) signifies whether the cancer has spread to parts of the body far from the primary tumor, like internal organs and distant lymph nodes. Areas of spread tends to be lungs, liver, bones, brain, and gastrointestinal (GI) tract. There are only 2 designations for metastasis: either the cancer has spread to distant areas (M1), or it has not (M0). For more information on metastatic melanoma, see Chapter 9: Treatment for stage 4: Metastatic melanoma. There are 5 stages of melanoma, stages 0 through 4. Doctors may write stages (1 through 4) as Roman numerals: stages I, II, III, and IV. Based on the cancer test results described in Chapter 3, your doctor will assign a melanoma stage (0, 1, 2, 3, or 4). Many times, that stage will be accompanied by a letter (A, B, C, or D) discussed futher on page 33. The higher the stage, the thicker the tumor or the more the cancer has spread. The thickness of a melanoma tumor is measured in millimeters (mm). The tip of a pencil is about 1 mm thick."
+            }
+        ]
+    },
+    "What is chemotherapy?": {
+        "concepts": [
+            "SideEffect",
+            "Treatment",
+            "Cancer",
+            "Chemotherapy"
+        ],
+        "results": [
+            {
+                "rank": 1,
+                "chunk_id": "DOC_004_CHUNK_0004",
+                "document_title": "chemotherapy-and-you-national-cancer-institute-3664",
+                "page": null,
+                "semantic_score": 0.9601565599441528,
+                "lexical_score": 0.9999999984262578,
+                "ontology_score": 1.0,
+                "final_score": 0.9800782794999536,
+                "text": "www.cancer.gov 1 Questions and answers about chemotherapy What is chemotherapy? Chemotherapy (also called chemo) is a type of cancer treatment that uses drugs to destroy cancer cells. How does chemotherapy work? Chemotherapy works by stopping or slowing the growth of cancer cells, which grow and divide quickly. But it can also harm healthy cells that divide quickly, such as those that line your mouth and intestines or cause your hair to grow. Damage to healthy cells may cause side eﬀects. O/f_ten, side eﬀects get better or go away a/f_ter chemotherapy is over. What does chemotherapy do? Depending on your type of cancer and how advanced it is, chemotherapy can cure or control cancer or ease symptoms caused by cancer. Chemotherapy cures cancer by destroying cancer cells to the point that your doctor can no longer detect them in your body and they will not grow back. Chemotherapy controls cancer by stopping it from spreading, slowing its growth, or destroying cancer cells that have spread to other parts of your body. Chemotherapy can ease symptoms caused by cancer (called palliative care) by shrinking tumors that are causing pain or pressure. Is chemotherapy used with other cancer treatments? Sometimes, chemotherapy is used as the only cancer treatment. But more o/f_ten, you will get chemotherapy along with surgery, radiation therapy, targeted therapy, or immunotherapy. Î Chemotherapy may make a tumor smaller before surgery or radiation therapy. /T_his is called neoadjuvant chemotherapy. Î Chemotherapy may destroy cancer cells that remain a/f_ter surgery or radiation therapy. /T_his is called adjuvant chemotherapy. Î Chemotherapy helps radiation therapy and immunotherapy work better. Î Chemotherapy can destroy cancer cells that have come back (recurrent cancer) or spread to other parts of your body (metastatic cancer)."
+            },
+            {
+                "rank": 2,
+                "chunk_id": "DOC_005_CHUNK_0064",
+                "document_title": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+                "page": null,
+                "semantic_score": 1.0,
+                "lexical_score": 0.70643794287463,
+                "ontology_score": 1.0,
+                "final_score": 0.911931382862389,
+                "text": "63 5.3 CHEMOTHERAPY Chemotherapy is a type of cancer treatment that uses powerful drugs to kill cancer cells or slow down their growth. It is one of the most common a nd widely used treatments for cancer. The drugs used in chemotherapy work by targeting and destroying rapidly dividing cancer cells. However, they can also affect healthy cells that divide rapidly, such as those in the bone marrow, gastrointestinal tract, and hair follicles, leading to side effects. Chemotherapy can be administered in several ways, including intravenously (through a vein), orally (by mouth), topically (applied to the skin), or intramuscularly (injected into a muscle). The choice of chemotherapy drugs and the method of administration depend on several factors, including the type of cancer, stage of cancer, overall health of the patient, and o ther treatments received. Chemotherapy is used for several purposes in the treatment of cancer, including: Curative treatment: Chemotherapy can be used as the primary treatment for some types of cancer, such as leukemia, lymphoma, and testicular cancer. In these cases, chemotherapy can often cure the cancer, especially when combined with other treatments such as radiation therapy or surgery. Adjuvant therapy: Adjuvant chemotherapy is given after surgery to kill any remaining cancer cells and reduce the risk of cancer recurrence. It is commonly used for breast cancer, colorectal cancer, and lung cancer. Neoadjuvant therapy: Neoadjuvant chemotherapy is given before surgery to shrink the tumor and make it easier to remove. This approach i s commonly used for breast cancer, lung cancer, and other types of cancer. Palliative treatment: Chemotherapy can be used to relieve symptoms of advanced or metastatic cancer, such as pain, bleeding, or brea thing difficulties. While chemotherapy can be effective in killing cancer cells, it can also cause several side effects, including:"
+            },
+            {
+                "rank": 3,
+                "chunk_id": "DOC_004_CHUNK_0006",
+                "document_title": "chemotherapy-and-you-national-cancer-institute-3664",
+                "page": null,
+                "semantic_score": 0.805293083190918,
+                "lexical_score": 0.9742816924717285,
+                "ontology_score": 1.0,
+                "final_score": 0.8949310493369775,
+                "text": "www.cancer.gov 3 How often will I receive chemotherapy? Treatment schedules for chemotherapy vary widely. How o/f_ten and how long you get chemotherapy depends on: Î your type of cancer and how advanced it is Î the goals of treatment (whether chemotherapy is used to cure your cancer, control its growth, or ease the symptoms) Î the type of chemotherapy Î how your body reacts to chemotherapy Y ou may receive chemotherapy in cycles. A cycle is a period of chemotherapy treatment followed by a period of rest. For instance, you might receive one week of chemotherapy followed by three weeks of rest. /T_hese four weeks make up one cycle. /T_he rest period gives your body a chance to build new healthy cells. Can I miss a chemotherapy treatment? It is not good to skip a chemotherapy treatment. But sometimes your doctor or nurse may change your chemotherapy schedule due to side eﬀects you are having. If your schedule changes, your doctor or nurse will explain what to do and when to start treatment again. How is chemotherapy given? Chemotherapy may be given in many ways, such as: Î Injection. /T_he chemotherapy is given by a shot in a muscle in your arm, thigh, or hip, or right under the skin in the fatty part of your arm, leg, or belly. Î Intra-arterial (IA). /T_he chemotherapy goes directly into the artery that is feeding the cancer. Î Intraperitoneal (IP). /T_he chemotherapy goes directly into the peritoneal cavity (the area that contains organs such as your intestines, stomach, liver, and ovaries). Î Intrathecal (IT). /T_he chemotherapy is injected into the ﬂuid-ﬁlled space between the thin layers of tissue that cover the brain and spinal cord. Î Intravenous (IV). /T_he chemotherapy goes directly into a vein. Î Topical. /T_he chemotherapy comes in a cream that you rub onto your skin. Î Oral. /T_he chemotherapy comes in pills, capsules, or liquids that you swallow."
+            }
+        ]
+    },
+    "What are supportive care measures for cancer patients?": {
+        "concepts": [
+            "RiskFactor",
+            "Cancer",
+            "CervicalCancer",
+            "Melanoma",
+            "StomachCancer",
+            "CancerStage",
+            "Diagnosis",
+            "Treatment",
+            "Osteosarcoma",
+            "Biomarker",
+            "SupportiveCare",
+            "Symptom"
+        ],
+        "results": [
+            {
+                "rank": 1,
+                "chunk_id": "DOC_007_CHUNK_0071",
+                "document_title": "melanoma-nccn-guidelines-for-patients-national-comprehensive-cancer-network-3671",
+                "page": null,
+                "semantic_score": 0.8787263631820679,
+                "lexical_score": 0.9999999973952874,
+                "ontology_score": 0.8,
+                "final_score": 0.8993631808096202,
+                "text": "70 NCCN Guidelines for Patients® Melanoma, 2026 7 Treatment for stage 3: Regional spread Follow-up for stage 3 For all stage 3 melanomas, follow-up care involves ongoing testing for new signs and symptoms of cancer, also known as observation. It’s further described in Chapter 10: Follow-up care. Follow-up starts when there are no signs of cancer after treatment. Recommended follow-up tests for stage 3 melanoma include:  Physical exam and medical history, with a focus on the skin and lymph nodes, every 3 to 6 months for 2 years, then every 3 to 12 months for 3 years, and then every year as needed.  Imaging tests as needed based on cancer signs and symptoms. Imaging might be done every 3 to 12 months for 2 years, then every 6 to 12 months for another 3 years.  After 3 to 5 years, routine imaging is not recommended. Supportive Care Supportive care is an important part of cancer care. The goal is to improve your quality of life during and after cancer treatment. Supportive care is for everyone with cancer and their families, not just for those at the end of life. It’s also known as palliative care. Supportive care includes a wide range of services. Supportive care prevents or manages the symptoms of cancer and the side eႇects of cancer treatment, like pain and cancer-related fatigue. It also addresses the mental, social, emotional, and spiritual concerns faced by people with cancer. Supportive care provides help with additional needs, such as: • Making treatment decisions • Coordinating your care • Paying for care • Planning for advance care and end of life"
+            },
+            {
+                "rank": 2,
+                "chunk_id": "DOC_007_CHUNK_0038",
+                "document_title": "melanoma-nccn-guidelines-for-patients-national-comprehensive-cancer-network-3671",
+                "page": null,
+                "semantic_score": 0.9994944334030151,
+                "lexical_score": 0.18500700642678267,
+                "ontology_score": 1.0,
+                "final_score": 0.7552493186295424,
+                "text": "37 NCCN Guidelines for Patients® Melanoma, 2026 5 Treatment overview Other health professionals Oncology nurses provide hands-on care, like giving systemic therapy, managing your care plan, answering questions, and helping you cope with side eႇects. Sometimes these experts are called nurse navigators. Pharmacists are trained to prepare and give out medicine and teach about proper use and side eႇects. Some pharmacists specifically work with people with cancer. Geneticists study how traits are passed down from parents to children through genes. They are trained to diagnose and treat genetic disorders and counsel people and families at risk. Nutritionists and dietitians help guide you on what foods are best for your diagnosis and treatment. Palliative care nurses help provide an extra layer of support with cancer-related symptoms. Psychologists and psychiatrists can help you manage mental health issues, such as depression, anxiety, or other conditions, that can aႇect how you feel during treatment. Social workers help people solve and cope with problems in their everyday lives while they are undergoing treatment. Some members of your care team will be with you throughout your treatment and beyond, while others will be there for parts of it. You know your body better than anyone. Help other team members understand:  How you feel  What you need  What is working and what isn't  Your goals for treatment Keep a list of names and contact information for each member of your team. Add it to your cell phone, too, if you have one. Hang the list in an obvious place where anyone can access it in an emergency. This will make it easier for you and anyone else involved in your care to know who to contact with questions or concerns. Common treatments for melanoma are listed in Guide 3 and discussed next. Surgery Surgery is an operation or procedure to remove cancer from the body. The type of surgery depends on the size, number of tumors, and their location. Surgery is the primary treatment for most melanomas. A person diagnosed with melanoma should expect to have surgery after the skin biopsy. The goal of surgery for a primary melanoma tumor is to remove all the cancer. For melanomas that have a low risk of spreading, surgery may be the only treatment needed. Diႇerent types of surgery are used to treat melanoma. They are mentioned ahead."
+            },
+            {
+                "rank": 3,
+                "chunk_id": "DOC_007_CHUNK_0086",
+                "document_title": "melanoma-nccn-guidelines-for-patients-national-comprehensive-cancer-network-3671",
+                "page": null,
+                "semantic_score": 1.0,
+                "lexical_score": 0.3328551295004084,
+                "ontology_score": 0.6,
+                "final_score": 0.7198565388501225,
+                "text": "85 NCCN Guidelines for Patients® Melanoma, 2026 9 Treatment for stage 4: Metastatic melanoma For more information about palliative care, see NCCN Guidelines for Patients: Palliative Care, available at NCCN.org/patientguidelines and on the NCCN Patient Guides for Cancer app. Ask for help Cancer and its treatment can be very overwhelming. Getting help when you’re feeling worried or hopeless is an important part of cancer care. And if you have a caregiver, this could apply to them, too. If you’re both feeling anxious or overwhelmed, ask your care team for help. Part of asking for help could also mean talking to other people who have the same type of cancer as you. Often the best advice comes from others who’ve been there. And dozens of online and in-person support groups are available where you can share your feelings and worries or anything on your mind. Most cancer centers have patient-to-patient peer support groups. Don’t hesitate to ask your care team (like a social worker or a behavioral health expert) to recommend support groups, or do an online search of groups that meet near you or others that might meet virtually. If you’re looking for spiritual help and guidance, ask your care team about any resources for that, too. It’s normal to feel worried Depression, anxiety, fear, and distress are very common feelings in people with cancer. These feelings can make it harder to deal with cancer and cancer treatment. They can hold you back even when you want to move forward. Getting help when you’re feeling worried is an important part of cancer care. If you’re feeling anxious or overwhelmed, ask your treatment team for help. Read more about cancer and distress in NCCN Guidelines for Patients: Distress During Cancer Care, available at NCCN.org/ patientguidelines and on the NCCN Patient Guides for Cancer app."
+            }
+        ]
+    }
+}

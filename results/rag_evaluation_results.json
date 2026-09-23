@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What are the common symptoms and signs of cancer?",
+    "answer": "The common symptoms of cancer can vary depending on the specific type of the disease, but some common signs and symptoms include:\n1. Abnormal vaginal bleeding\n2. Irregular vaginal bleeding or spotting\n3. Vaginal discharge\n4. Bleeding between periods or after sex\n5. Unexplainable pelvic or lower back pain\n6. Upset stomach or nausea\n7. Loss of appetite\n8. Weight loss\n9. Fatigue\n10. Changes in bowel or bladder habits\n11. Urine or semen changes\n12. Uterine bleeding\n13. Ureteral bleeding\n\nThese symptoms can be indicative of various types of cancers, such as cervical, breast, colon or rectal, lung or other types of lung, prostate or other prostate cancers, and more.",
+    "sources": [
+      {
+        "document": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+        "chunk_id": "DOC_005_CHUNK_0015"
+      },
+      {
+        "document": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+        "chunk_id": "DOC_005_CHUNK_0052"
+      },
+      {
+        "document": "cervical-cancer-mater-misericordiae-university-hospital-3675",
+        "chunk_id": "DOC_003_CHUNK_0002"
+      }
+    ]
+  },
+  {
+    "question": "What are the major risk factors for cancer?",
+    "answer": "The major riskfactors for cancer are:\n\n1. Age: Cancer is more common in older adults.\n2. Family history: People with a family history of cancer are at higher risk.\n3. Lifestyle: Smoking, alcohol consumption (especially tobacco), and exposureto environmental factors (like radiation) can increase cancer risk. \n4. Genetics: Certain genetic mutations can increase a person's risk ofcancer.\n5. Obesity: Excess body weight can increase risk of certain types ofcancer, suchas breast, lung, and colon cancer.",
+    "sources": [
+      {
+        "document": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+        "chunk_id": "DOC_005_CHUNK_0015"
+      },
+      {
+        "document": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+        "chunk_id": "DOC_005_CHUNK_0013"
+      },
+      {
+        "document": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+        "chunk_id": "DOC_005_CHUNK_0014"
+      }
+    ]
+  },
+  {
+    "question": "What methods are used to diagnose cancer?",
+    "answer": "Based on the document, the main methods used to diagnosis cancer are:\n\n1. Medical history and physical examination: The first steps in diagnosing a cancer are taking a comprehensive medical history and performing a physical checkup.\n\n2. Imaging tests: Imaging tests such as X-Rays, Xray (which uses electromagnetic rays to produce an images of the internal body structures), and other imaging tests like CT scans, MRI scans, and ultrasound are used.\n\n3. Laboratory tests: Laboratory tests like blood tests, urine tests, blood work, and other tests are also conducted to check for signs of the condition.\n\n4. Histopathology: Histopathology, which is the examination of tissue samples, is used to identify the type of the cell and the extent of cancer spread.\n\nSo in summary, the methods used for diagnosing cancer include medical history & physical examination for initial diagnosis, imaging",
+    "sources": [
+      {
+        "document": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+        "chunk_id": "DOC_005_CHUNK_0043"
+      },
+      {
+        "document": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+        "chunk_id": "DOC_005_CHUNK_0020"
+      },
+      {
+        "document": "the-pathology-of-cancer-chi-young-ok-bruce-woda-elizabeth-kurian-3670",
+        "chunk_id": "DOC_011_CHUNK_0001"
+      }
+    ]
+  },
+  {
+    "question": "What is the role of biopsy in cancer diagnosis?",
+    "answer": "The role of a biopsy in the diagnosis and treatment of cancer is to collect a tissue or fluid sample from the suspected area of the tumor to determine its type, stage, and whether cancer cells are present or have spread to distant parts of their body.",
+    "sources": [
+      {
+        "document": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+        "chunk_id": "DOC_005_CHUNK_0049"
+      },
+      {
+        "document": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+        "chunk_id": "DOC_005_CHUNK_0050"
+      },
+      {
+        "document": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+        "chunk_id": "DOC_005_CHUNK_0057"
+      }
+    ]
+  },
+  {
+    "question": "What are the main types of cancer treatment?",
+    "answer": "The main types o f cancer treatment are chemotherapy, radiation therapy, and surgery.",
+    "sources": [
+      {
+        "document": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+        "chunk_id": "DOC_005_CHUNK_0064"
+      },
+      {
+        "document": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+        "chunk_id": "DOC_005_CHUNK_0066"
+      },
+      {
+        "document": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+        "chunk_id": "DOC_005_CHUNK_0015"
+      }
+    ]
+  },
+  {
+    "question": "What is chemotherapy and how is it used in cancer treatment?",
+    "answer": "Chemotherapy is the use of drugs to stop or slow the growth and spread of cancer by killing or limiting the growth rate of cancer cell. Chemo is a cancer treatment where drugs are administered to kill or slow cancer cells in the body, and it is often used in combination with other types or treatments such a as radiation, targeted therapies, or immunotherapies.",
+    "sources": [
+      {
+        "document": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+        "chunk_id": "DOC_005_CHUNK_0064"
+      },
+      {
+        "document": "chemotherapy-and-you-national-cancer-institute-3664",
+        "chunk_id": "DOC_004_CHUNK_0004"
+      },
+      {
+        "document": "stomach-cancer-european-society-for-medical-oncology",
+        "chunk_id": "DOC_010_CHUNK_0032"
+      }
+    ]
+  },
+  {
+    "question": "What is radiation therapy used for?",
+    "answer": "Radiation therapy is used for treating cancer by using high-energy rays to kill cancer cells and shrink tumors.",
+    "sources": [
+      {
+        "document": "cancer-tata-memorial-centre",
+        "chunk_id": "DOC_002_CHUNK_0010"
+      },
+      {
+        "document": "cancer-management-the-international-agency-for-research-on-cancer-3673",
+        "chunk_id": "DOC_001_CHUNK_0011"
+      },
+      {
+        "document": "radiation-therapy-and-you-national-cancer-institute-3665",
+        "chunk_id": "DOC_009_CHUNK_0016"
+      }
+    ]
+  },
+  {
+    "question": "What is immunotherapy in cancer treatment?",
+    "answer": "Immunotherapy in cancer is a treatment approach that aims at harnessing the body’s immune system, specifically by using immune cells to recognize, attack, and eliminate cancer cells without harming healthy cells, as described in the document. This approach is different from traditional cancer treatments like chemotherapy and radiotherapy, which can have significant and long-lasting side effects on the body. Immunotherapies are being explored for their potential to improve cancer treatment outcomes, such that cancer cells are recognized and destroyed by the body, rather than being killed by the cancer cells themselves.",
+    "sources": [
+      {
+        "document": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+        "chunk_id": "DOC_005_CHUNK_0066"
+      },
+      {
+        "document": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+        "chunk_id": "DOC_005_CHUNK_0067"
+      },
+      {
+        "document": "cancer-management-the-international-agency-for-research-on-cancer-3673",
+        "chunk_id": "DOC_001_CHUNK_0036"
+      }
+    ]
+  },
+  {
+    "question": "What are common side effects of cancer treatment?",
+    "answer": "The common side effect of cancer treatments is nausea and/or vomiting.",
+    "sources": [
+      {
+        "document": "chemotherapy-and-you-national-cancer-institute-3664",
+        "chunk_id": "DOC_004_CHUNK_0016"
+      },
+      {
+        "document": "radiation-therapy-and-you-national-cancer-institute-3665",
+        "chunk_id": "DOC_009_CHUNK_0021"
+      },
+      {
+        "document": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+        "chunk_id": "DOC_005_CHUNK_0065"
+      }
+    ]
+  },
+  {
+    "question": "Why is cancer staging important?",
+    "answer": "Cancer staging is important because it helps doctors understand the extent and severity of the disease, which guides treatment decisions. This information is crucial for determining the most effective treatment options, such that the cancer can be treated effectively and the patient can expect a good quality of Life.",
+    "sources": [
+      {
+        "document": "fundamentals-of-cancer-biology-s-kousik-saravana-3669",
+        "chunk_id": "DOC_005_CHUNK_0051"
+      },
+      {
+        "document": "melanoma-nccn-guidelines-for-patients-national-comprehensive-cancer-network-3671",
+        "chunk_id": "DOC_007_CHUNK_0033"
+      },
+      {
+        "document": "melanoma-nccn-guidelines-for-patients-national-comprehensive-cancer-network-3671",
+        "chunk_id": "DOC_007_CHUNK_0032"
+      }
+    ]
+  }
+]

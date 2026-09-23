@@ -1,0 +1,278 @@
+{
+    "method": "Ontology-Guided Retrieval",
+    "top_k": 3,
+    "number_of_questions": 15,
+    "average_precision_at_3": 0.6222222222222221,
+    "per_question": {
+        "What are the common symptoms and signs of cancer?": {
+            "concepts": [
+                "RiskFactor",
+                "Cancer",
+                "CervicalCancer",
+                "Melanoma",
+                "StomachCancer",
+                "CancerStage",
+                "Diagnosis",
+                "Treatment",
+                "Osteosarcoma",
+                "Biomarker",
+                "Symptom"
+            ],
+            "labels": [
+                1,
+                0,
+                1
+            ],
+            "relevant": 2,
+            "precision_at_3": 0.6666666666666666
+        },
+        "What are the side effects of chemotherapy?": {
+            "concepts": [
+                "SideEffect",
+                "Treatment",
+                "Cancer",
+                "Chemotherapy"
+            ],
+            "labels": [
+                1,
+                1,
+                0
+            ],
+            "relevant": 2,
+            "precision_at_3": 0.6666666666666666
+        },
+        "How is stomach cancer diagnosed?": {
+            "concepts": [
+                "RiskFactor",
+                "Cancer",
+                "CervicalCancer",
+                "Melanoma",
+                "StomachCancer",
+                "CancerStage",
+                "Diagnosis",
+                "Treatment",
+                "Osteosarcoma",
+                "Biomarker",
+                "Symptom"
+            ],
+            "labels": [
+                1,
+                1,
+                1
+            ],
+            "relevant": 3,
+            "precision_at_3": 1.0
+        },
+        "What treatments are available for stomach cancer?": {
+            "concepts": [
+                "RiskFactor",
+                "Cancer",
+                "CervicalCancer",
+                "SideEffect",
+                "Melanoma",
+                "StomachCancer",
+                "CancerStage",
+                "Diagnosis",
+                "Treatment",
+                "Osteosarcoma",
+                "Biomarker",
+                "Symptom"
+            ],
+            "labels": [
+                1,
+                1,
+                1
+            ],
+            "relevant": 3,
+            "precision_at_3": 1.0
+        },
+        "What is radiation therapy?": {
+            "concepts": [
+                "SideEffect",
+                "Treatment",
+                "Cancer",
+                "RadiationTherapy"
+            ],
+            "labels": [
+                0,
+                0,
+                0
+            ],
+            "relevant": 0,
+            "precision_at_3": 0.0
+        },
+        "What are the side effects of radiation therapy?": {
+            "concepts": [
+                "SideEffect",
+                "Treatment",
+                "Cancer",
+                "RadiationTherapy"
+            ],
+            "labels": [
+                0,
+                0,
+                1
+            ],
+            "relevant": 1,
+            "precision_at_3": 0.3333333333333333
+        },
+        "What is melanoma?": {
+            "concepts": [
+                "Melanoma",
+                "Cancer"
+            ],
+            "labels": [
+                0,
+                1,
+                0
+            ],
+            "relevant": 1,
+            "precision_at_3": 0.3333333333333333
+        },
+        "How is melanoma diagnosed?": {
+            "concepts": [
+                "Melanoma",
+                "Cancer"
+            ],
+            "labels": [
+                1,
+                0,
+                1
+            ],
+            "relevant": 2,
+            "precision_at_3": 0.6666666666666666
+        },
+        "What is osteosarcoma?": {
+            "concepts": [
+                "Osteosarcoma",
+                "Cancer"
+            ],
+            "labels": [
+                1,
+                1,
+                0
+            ],
+            "relevant": 2,
+            "precision_at_3": 0.6666666666666666
+        },
+        "How is osteosarcoma treated?": {
+            "concepts": [
+                "Osteosarcoma",
+                "Cancer"
+            ],
+            "labels": [
+                1,
+                0,
+                1
+            ],
+            "relevant": 2,
+            "precision_at_3": 0.6666666666666666
+        },
+        "What are the risk factors for cervical cancer?": {
+            "concepts": [
+                "RiskFactor",
+                "CervicalCancer",
+                "Cancer",
+                "Melanoma",
+                "StomachCancer",
+                "CancerStage",
+                "Diagnosis",
+                "Treatment",
+                "Osteosarcoma",
+                "Biomarker",
+                "Symptom"
+            ],
+            "labels": [
+                1,
+                0,
+                1
+            ],
+            "relevant": 2,
+            "precision_at_3": 0.6666666666666666
+        },
+        "What is the role of biopsy in cancer diagnosis?": {
+            "concepts": [
+                "RiskFactor",
+                "Cancer",
+                "CervicalCancer",
+                "Melanoma",
+                "Imaging",
+                "StomachCancer",
+                "Biopsy",
+                "CancerStage",
+                "Diagnosis",
+                "Treatment",
+                "Osteosarcoma",
+                "Biomarker",
+                "Symptom"
+            ],
+            "labels": [
+                0,
+                1,
+                1
+            ],
+            "relevant": 2,
+            "precision_at_3": 0.6666666666666666
+        },
+        "What is cancer staging?": {
+            "concepts": [
+                "RiskFactor",
+                "Cancer",
+                "CervicalCancer",
+                "Melanoma",
+                "StomachCancer",
+                "CancerStage",
+                "Diagnosis",
+                "Treatment",
+                "Osteosarcoma",
+                "Biomarker",
+                "Symptom"
+            ],
+            "labels": [
+                1,
+                1,
+                1
+            ],
+            "relevant": 3,
+            "precision_at_3": 1.0
+        },
+        "What is chemotherapy?": {
+            "concepts": [
+                "SideEffect",
+                "Treatment",
+                "Cancer",
+                "Chemotherapy"
+            ],
+            "labels": [
+                1,
+                1,
+                0
+            ],
+            "relevant": 2,
+            "precision_at_3": 0.6666666666666666
+        },
+        "What are supportive care measures for cancer patients?": {
+            "concepts": [
+                "RiskFactor",
+                "Cancer",
+                "CervicalCancer",
+                "Melanoma",
+                "StomachCancer",
+                "CancerStage",
+                "Diagnosis",
+                "Treatment",
+                "Osteosarcoma",
+                "Biomarker",
+                "SupportiveCare",
+                "Symptom"
+            ],
+            "labels": [
+                0,
+                1,
+                0
+            ],
+            "relevant": 1,
+            "precision_at_3": 0.3333333333333333
+        }
+    }
+}
