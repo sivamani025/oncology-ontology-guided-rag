@@ -443,25 +443,4 @@ The repository contains the source code and experimental result files required t
 
 The original oncology PDFs, generated embeddings, intermediate chunk files, and local ChromaDB files are excluded from version control.
 
-## Project Status
-
-The following components have been implemented:
-
-* [x] Document preprocessing
-* [x] Chunking
-* [x] MiniLM embeddings
-* [x] Manual cosine similarity
-* [x] Chunk-size evaluation
-* [x] Hybrid retrieval
-* [x] Oncology ontology
-* [x] Ontology-guided retrieval
-* [x] FAISS retrieval
-* [x] ChromaDB retrieval
-* [x] Database latency benchmark
-* [x] Scalability benchmark
-* [x] RAG generation
-* [x] 10-question RAG evaluation
-
-## License
-
 This project is intended for a
